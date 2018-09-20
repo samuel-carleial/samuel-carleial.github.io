@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/personal-website/pt/" hreflang="pt"/>
+      <xhtml:link rel="alternate" href="/personal-website/de/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="/personal-website/" hreflang="en"/>
+    
+      <loc>/personal-website/pt/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/personal-website/pt/categories/" hreflang="pt"/>
+      <xhtml:link rel="alternate" href="/personal-website/de/categories/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="/personal-website/categories/" hreflang="en"/>
+    
+      <loc>/personal-website/pt/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/personal-website/pt/publication_types/" hreflang="pt"/>
+      <xhtml:link rel="alternate" href="/personal-website/de/publication_types/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="/personal-website/publication_types/" hreflang="en"/>
+    
+      <loc>/personal-website/pt/publication_types/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/personal-website/pt/tags/" hreflang="pt"/>
+      <xhtml:link rel="alternate" href="/personal-website/de/tags/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="/personal-website/tags/" hreflang="en"/>
+    
+      <loc>/personal-website/pt/tags/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+</urlset>

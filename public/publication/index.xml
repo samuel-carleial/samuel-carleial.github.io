@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Academic Profile</title>
+    <link>/personal-website/publication/</link>
+    <description>Recent content in Publications on Academic Profile</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/personal-website/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Reﬂexed ﬂowers in Aeschynomene amorphoides (Fabaceae: Faboideae): a mechanism promoting pollination specialization?</title>
+      <link>/personal-website/publication/paper-2015.1-bjls/</link>
+      <pubDate>Tue, 17 Mar 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/personal-website/publication/paper-2015.1-bjls/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What survived from the PLANAFLORO Project: angiosperms of Rondônia state, Brazil</title>
+      <link>/personal-website/publication/paper-2014-checklist/</link>
+      <pubDate>Sat, 01 Feb 2014 00:00:00 +0100</pubDate>
+      
+      <guid>/personal-website/publication/paper-2014-checklist/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

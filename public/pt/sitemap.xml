@@ -5,11 +5,11 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/personal-website/pt/" hreflang="pt"/>
-      <xhtml:link rel="alternate" href="/personal-website/de/" hreflang="de"/>
-      <xhtml:link rel="alternate" href="/personal-website/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/pt/" hreflang="pt"/>
+      <xhtml:link rel="alternate" href="/de/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="/" hreflang="en"/>
     
-      <loc>/personal-website/pt/</loc>
+      <loc>/pt/</loc>
       <priority>0</priority>
     </url>
     
@@ -18,11 +18,11 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/personal-website/pt/categories/" hreflang="pt"/>
-      <xhtml:link rel="alternate" href="/personal-website/de/categories/" hreflang="de"/>
-      <xhtml:link rel="alternate" href="/personal-website/categories/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/pt/categories/" hreflang="pt"/>
+      <xhtml:link rel="alternate" href="/de/categories/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="/categories/" hreflang="en"/>
     
-      <loc>/personal-website/pt/categories/</loc>
+      <loc>/pt/categories/</loc>
       <priority>0</priority>
     </url>
     
@@ -31,11 +31,11 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/personal-website/pt/publication_types/" hreflang="pt"/>
-      <xhtml:link rel="alternate" href="/personal-website/de/publication_types/" hreflang="de"/>
-      <xhtml:link rel="alternate" href="/personal-website/publication_types/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/pt/publication_types/" hreflang="pt"/>
+      <xhtml:link rel="alternate" href="/de/publication_types/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="/publication_types/" hreflang="en"/>
     
-      <loc>/personal-website/pt/publication_types/</loc>
+      <loc>/pt/publication_types/</loc>
       <priority>0</priority>
     </url>
     
@@ -44,11 +44,11 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/personal-website/pt/tags/" hreflang="pt"/>
-      <xhtml:link rel="alternate" href="/personal-website/de/tags/" hreflang="de"/>
-      <xhtml:link rel="alternate" href="/personal-website/tags/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/pt/tags/" hreflang="pt"/>
+      <xhtml:link rel="alternate" href="/de/tags/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="/tags/" hreflang="en"/>
     
-      <loc>/personal-website/pt/tags/</loc>
+      <loc>/pt/tags/</loc>
       <priority>0</priority>
     </url>
     

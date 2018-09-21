@@ -1,3 +1,4 @@
+TO WORK OUT SAVE THIS TEMPLATE AS .md FILE (AND REMOVE THIS LINE)
 +++
 # Date this page was created.
 date = 2016-04-27T00:00:00
@@ -22,4 +23,3 @@ external_link = "http://example.org"
 math = false
 
 +++
-

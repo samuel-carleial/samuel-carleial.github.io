@@ -2,31 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Academic Profile</title>
-    <link>/personal-website/publication/</link>
+    <link>/publication/</link>
     <description>Recent content in Publications on Academic Profile</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="/personal-website/publication/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Reﬂexed ﬂowers in Aeschynomene amorphoides (Fabaceae: Faboideae): a mechanism promoting pollination specialization?</title>
-      <link>/personal-website/publication/paper-2015.1-bjls/</link>
-      <pubDate>Tue, 17 Mar 2015 00:00:00 +0100</pubDate>
+      <title>Oviposition by the Mountain Alcon Blue butterfly increases with host plant flower number and host ant abundance</title>
+      <link>/publication/paper-2018-baae/</link>
+      <pubDate>Sat, 17 Mar 2018 00:00:00 +0100</pubDate>
       
-      <guid>/personal-website/publication/paper-2015.1-bjls/</guid>
+      <guid>/publication/paper-2018-baae/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>What survived from the PLANAFLORO Project: angiosperms of Rondônia state, Brazil</title>
-      <link>/personal-website/publication/paper-2014-checklist/</link>
-      <pubDate>Sat, 01 Feb 2014 00:00:00 +0100</pubDate>
+      <title>Relatively weak inbreeding depression in selfing but also in outcrossing populations of North American Arabidopsis lyrata</title>
+      <link>/publication/paper-2017.2-jeb/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0100</pubDate>
       
-      <guid>/personal-website/publication/paper-2014-checklist/</guid>
+      <guid>/publication/paper-2017.2-jeb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Small reductions in corolla size and pollen: ovule ratio, but no changes in flower shape in selfing populations of the North American Arabidopsis lyrata</title>
+      <link>/publication/paper-2017.1-oecologia/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/paper-2017.1-oecologia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolution of the selﬁng syndrome in Arabis alpina (Brassicaceae)</title>
+      <link>/publication/paper-2015.2-plos/</link>
+      <pubDate>Wed, 03 Jun 2015 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/paper-2015.2-plos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reﬂexed ﬂowers in Aeschynomene amorphoides (Fabaceae: Faboideae): a mechanism promoting pollination specialization?</title>
+      <link>/publication/paper-2015.1-bjls/</link>
+      <pubDate>Tue, 17 Mar 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/paper-2015.1-bjls/</guid>
       <description></description>
     </item>
     

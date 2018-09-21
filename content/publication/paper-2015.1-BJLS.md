@@ -4,7 +4,7 @@ date = 2015-03-17T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g.
-authors = ["Carleial S", "Delgado-Salinas A", "Domínguez CA", "Terrazas T"]
+authors = ["Carleial S", "et al"]
 
 # Publication type.
 # Legend:
@@ -67,6 +67,6 @@ highlight = true
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
 image = "headers/bubbles-wide.jpg"
-caption = "My caption :smile:"
+caption = ""
 
 +++

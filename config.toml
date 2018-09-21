@@ -6,9 +6,10 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://samuel-carleial.github.io/personal-website/"
+baseurl = "/"
 
-publishDir = "../samuel-carleial.github.io/personal-website/"
+# Build site in the following folder:
+# publishDir = "../personal-website/"
 
 # Title of your site
 title = "Academic Profile"
@@ -16,7 +17,6 @@ title = "Academic Profile"
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
 copyright = "&copy; 2018"
-
 theme = "hugo-academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -67,11 +67,11 @@ enableGitInfo = false
   organizations = [ { name = "University of Konstanz", url = "https://www.psychologie.uni-konstanz.de/en/ag-elbert/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "foto.2low.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "me.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "samuel.carleial.fernandes@protonmail.com"
   address = "Feursteinstr. 55, Haus 22, 78479, Reichenau, Konstanz, Germany"
   office_hours = "Monday to Thursday: 9:00 to 12:00 or email for appointment"
-  phone = "07531 88 4673"
+  phone = "07531 884673"
   skype = "samuel.carleial.fernandes"
   #telegram = ""
 
@@ -190,7 +190,7 @@ enableGitInfo = false
   # Configuration of talk pages.
   [params.talks]
     # Show talk time?
-    time = false
+    time = true
 
   # Configuration of publication pages.
   [params.publications]
@@ -211,7 +211,6 @@ enableGitInfo = false
     publication_format = 3
 
   # Social/Academic Networking
-
   # Icon pack "fa" includes the following social network icons:
   #
   #   twitter, weibo, linkedin, github, facebook, pinterest, google-plus,
@@ -272,28 +271,28 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Publications"
-  url = "#publications_selected"
+  url = "#publications"
   weight = 2
 
-[[menu.main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 3
+#[[menu.main]]
+#  name = "Posts"
+#  url = "#posts"
+#  weight = 3
 
 [[menu.main]]
   name = "Projects"
   url = "#projects"
-  weight = 4
+  weight = 3
 
 [[menu.main]]
   name = "Teaching"
   url = "#teaching"
-  weight = 5
+  weight = 4
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 6
+  weight = 5
 
 # Taxonomies.
 [taxonomies]

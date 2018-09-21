@@ -15,7 +15,8 @@ weight = 60
 
 +++
 
-I worked as a teaching assistant in the following courses:
+I worked as a teaching assistant in:
 
-- Compact course - Plant Physiology (120h)
+- Compact course in Plant Physiology
+- Biological Sciences at distance education
 - Plant Anatomy and Morphology

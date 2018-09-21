@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publication_types on Academic Profile</title>
-    <link>/personal-website/publication_types/</link>
+    <link>/publication_types/</link>
     <description>Recent content in Publication_types on Academic Profile</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 17 Mar 2015 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 17 Mar 2018 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="/personal-website/publication_types/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/publication_types/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>2</title>
-      <link>/personal-website/publication_types/2/</link>
-      <pubDate>Tue, 17 Mar 2015 00:00:00 +0100</pubDate>
+      <link>/publication_types/2/</link>
+      <pubDate>Sat, 17 Mar 2018 00:00:00 +0100</pubDate>
       
-      <guid>/personal-website/publication_types/2/</guid>
+      <guid>/publication_types/2/</guid>
       <description></description>
     </item>
     

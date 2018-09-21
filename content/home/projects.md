@@ -34,12 +34,11 @@ filter_default = 0
   tag = "*"
 
 [[filter]]
-  name = "Deep Learning"
-  tag = "Deep Learning"
+  name = "THL Android App"
+  tag = "THL Android App"
 
-[[filter]]
-  name = "Other"
-  tag = "Demo"
+#[[filter]]
+#  name = "Other"
+#  tag = "Demo"
 
 +++
-

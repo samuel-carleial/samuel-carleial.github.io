@@ -2,57 +2,90 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Academic Profile on Academic Profile</title>
-    <link>/personal-website/</link>
+    <link>/</link>
     <description>Recent content in Academic Profile on Academic Profile</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0200</lastBuildDate>
-    <atom:link href="/personal-website/" rel="self" type="application/rss+xml" />
+    <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Privacy Policy</title>
-      <link>/personal-website/privacy/</link>
+      <link>/privacy/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0200</pubDate>
       
-      <guid>/personal-website/privacy/</guid>
+      <guid>/privacy/</guid>
       <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Deep Learning</title>
-      <link>/personal-website/project/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      <title>Oviposition by the Mountain Alcon Blue butterfly increases with host plant flower number and host ant abundance</title>
+      <link>/publication/paper-2018-baae/</link>
+      <pubDate>Sat, 17 Mar 2018 00:00:00 +0100</pubDate>
       
-      <guid>/personal-website/project/deep-learning/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+      <guid>/publication/paper-2018-baae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>THL Android App</title>
+      <link>/project/thl-app/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/project/thl-app/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Background&lt;/strong&gt;: Research in psychology commonly relies on questionnaires as a way of collecting empirical data on many different topics of human health (Herrmann 1982, Schwarz &amp;amp; Oyserman 2001), such as behavior (Buss &amp;amp; Perry 1992), memory (Hinkin 1998), and cognition (Khawaja &amp;amp; Oei 1992). For this particular purpose, psychologists, clinicians, and researchers use sets of thematic questions printed on paper (questionnaires) to achieve their goal of gathering data. This conventional approach, however, also imposes major difficulties for the completion of psychological surveys.&lt;/p&gt;
 
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;For example, questionnaires need to be printed and manually filled out, usually generating remarkable amounts of physical material that need to be properly stored. In addition, typos, missing data, or incorrect answers may be produced by the interviewers (Barnette Jr 1950), creating irregular answers that should be first filtered out or corrected by the person responsible for data analysis. Moreover, instructed personnel should conduct interview sessions under controlled sets, such as in a clinic or laboratory, which consumes time and resources of both interviewee and interviewer. In special cases, focal interviewees also need to move from their living places to distant areas where the interview shall take place, increasing financial and logistic costs. Thus, traditional research questionnaires printed on paper may lead to several problems to researchers and their use is limited to particular conditions.&lt;/p&gt;
 
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Optimizing data gathering for psychological surveys that rely on paper-pencil questionnaires should therefore be a key issue for many researchers. Nowadays, abundant examples of computer-based online tools might actually help this shift from conventional questions on paper to ‘virtual questionnaires’ (for a list of different static online questionnaires, see the databases in Social Psychology Network and Excel at Life). Computer-based tools have comparatively several advantages over the use of paper-pencil questionnaires. For instance, they allow gathering of more reliable data, provided that answers are set to a particular range or category constraint. Data acquisition and manipulation is faster, considering that answers might be automatically saved, transformed, or exported to analysis, which avoids the time-consuming task of data entry into spreadsheets and the generation of typos. In case different studies are performed using the same virtual questionnaire, answers might also be formatted identically, allowing for better representation, comparison, and reproducibility of the data. Hence, computer-based questionnaires are potential alternatives for improving psychological surveys.&lt;/p&gt;
 
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Despite criticism, online surveys have been well regarded as reliable and valid sources of study data. For example, Ramo et al (2011) gathered self-reports for smoking behavior on a small study group of 248 young adults, and they found that smoking quantity was comparable to the national levels produced after household interviews in USA. Moreover, Gosling et al (2004) suggested that online surveys consistently produced results similar to those of traditional methods on a sample of over 360,000 online web visitors. There are several studies that further support the reliability of online data, such as for the construct of reaction-time (McGraw et al 2000), self-esteem (Robins et al 2002), and self-monitoring (Buchanan &amp;amp; Smith 1999). Additionally, online surveys may also produce data with good quality. For example, Hewson (2016) observed that several studies have already been replicated and cross-validated with conventional methods, showing that online surveys produce representative valid data on psychometric traits. Therefore, although common sense should expect that participants of an online survey might not be authentic or give honest answers (due to lack of close control and monitoring), in reality online surveys are reliable instruments for gathering research data.&lt;/p&gt;
 
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+&lt;p&gt;Of course, the use of online surveys is an ideal alternative for focal study groups that constantly have access to computers permanently connected to the internet. In poor, remote, or even dangerous areas, however, people generally do not have computers at hand. Thus, in these cases, further alternatives need to be offered for researchers to conduct their investigations. Thanks to technology, cheap smartphones now practically allow everyone to get internet access. This is especially true for Africa and parts of South America, where even money transfers and payments can be largely done by phones (Etzo &amp;amp; Collender 2010; Donner 2008). Software applications that are implemented as surveys in tablets or smartphones are relatively scarce in comparison to static online questionnaires nevertheless (e.g., Lindhiem et al 2015; Schickler et al 2017; Schobel et al 2017). In cases where research is carried out in critical areas, the use of smartphones might be much more feasible than the use of computers. Therefore, using portable devices might be an optimal alternative to conduct psychological surveys in certain conditions. Moreover, the implementation of questionnaires to assess different human traits are not widely spread, such survey versions still need to be translated and implemented into software applications, especially those that fit the above mentioned working conditions.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Focal working questionnaire&lt;/strong&gt;: Threats to Human Life (THL) Scale&lt;/p&gt;
+
+&lt;p&gt;The Threats to Human Life (THL) Scale was created by researchers of the University of Konstanz (Köbach, Elbert &amp;amp; Schauer, in prep), and it is an instrument to retrospectively assess the social and physical threats to a person’s life as well as dominance behaviour. It takes into account essential attributes for an organism survival, e.g. oxygen, water and glucose supply, tissue and organ integrity, social inclusion, and bonds. For each life event described by the instrument, the THL also requires the specific participant’s age, together with information on the actor of violence and the regularity of the event in case (for details, see Figure 1 on next page).&lt;/p&gt;
+
+&lt;p&gt;The THL can be applied in research and therapy to gain profound understanding of an individual’s history of trauma and aggression. However, given that event assessment depends on age, this instrument also generates a large amount of outcome variables that need to be efficiently dealt with later on. It is crucial that respondents have clear instructions before filling out the questionnaire, but it is still common to observe missing values and discordant answers. Furthermore, the answers have to be brought into an ordered format from which data can be correctly analysed and linked to trauma-related disorders, (epi)genetic modifications, and/or social variables. If these steps are obeyed, a larger validation study may build the basis for the THL to become a more commonly used instrument for the assessment of trauma in various settings. The THL may further serve as a risk evaluation tool for trauma-related disorders where appropriate services can be suggested to
+those who seek help.&lt;/p&gt;
+
+&lt;p&gt;So far, the THL has been piloted in Armenia (Master’s degree project by Tamara Stepanyan) and as an online self-report questionnaire in Germany (Master’s degree project by Valentina Diegel and Florina Willand). In the latter, a UniPark/Questback was used with appropriate codes to account for the dynamic effect of age. In general, feasibility and validation questions were positive, with participants reporting a high variation of events. Additionally, one long-term study in DR Congo is currently ongoing.&lt;/p&gt;
+
+&lt;p&gt;The development of a portable computer-based (i.e. in smartphone or tablet) version of the THL would allow not only an optimization of the data control and acquisition, but also large validation studies to take place. This is especially true given the dynamic nature of the THL data output (dependant on age of participants), but also because of the considerable amount of data generated that needs to be processed. Moreover, a THL application for portable devices could allow a study to be conducted without interviewers, in which the data could be automatically sent over to a safe storage server. This is particularly interesting for study sets where the fieldwork is conducted distant from the location of the data analysis, especially in insecure settings.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Planed timeline&lt;/strong&gt;: The development of the application is planned to take place in 2018. A pilot test will be conducted in Konstanz for approximately one month with subsequent data output analysis. A second pilot will be implemented in a project in Rio de Janeiro city, Brazil, during a one-week stay in November 2018.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Scientific aim&lt;/strong&gt;: Produce and pilot the THL as a software application for mobile devices. After proof of concept, I will be able to further write a project proposal (e.g. to the Deutsch Forschungsgemeinschaft) for a validation study of the THL as a technically supported self-report instrument.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>External Project</title>
-      <link>/personal-website/project/example-external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      <title>Relatively weak inbreeding depression in selfing but also in outcrossing populations of North American Arabidopsis lyrata</title>
+      <link>/publication/paper-2017.2-jeb/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0100</pubDate>
       
-      <guid>/personal-website/project/example-external-project/</guid>
+      <guid>/publication/paper-2017.2-jeb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Small reductions in corolla size and pollen: ovule ratio, but no changes in flower shape in selfing populations of the North American Arabidopsis lyrata</title>
+      <link>/publication/paper-2017.1-oecologia/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/paper-2017.1-oecologia/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Academic: the website designer for Hugo</title>
-      <link>/personal-website/post/getting-started/</link>
+      <link>/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>/personal-website/post/getting-started/</guid>
+      <guid>/post/getting-started/</guid>
       <description>
 
 &lt;p&gt;&lt;strong&gt;Academic&lt;/strong&gt; is a framework to help you create a beautiful website quickly. Perfect for personal sites, blogs, or business/project sites. &lt;a href=&#34;https://themes.gohugo.io/theme/academic/&#34; target=&#34;_blank&#34;&gt;Check out the latest demo&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes. Then head on over to the &lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Quick Start guide&lt;/a&gt; or take a look at the &lt;a href=&#34;https://sourcethemes.com/academic/updates/&#34; target=&#34;_blank&#34;&gt;Release Notes&lt;/a&gt;.&lt;/p&gt;
@@ -237,10 +270,10 @@ git submodule update --init --recursive
     
     <item>
       <title>Hello R Markdown</title>
-      <link>/personal-website/post/2015-07-23-r-rmarkdown/</link>
+      <link>/post/2015-07-23-r-rmarkdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/personal-website/post/2015-07-23-r-rmarkdown/</guid>
+      <guid>/post/2015-07-23-r-rmarkdown/</guid>
       <description>&lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;R Markdown&lt;/h1&gt;
 &lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34; class=&#34;uri&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;
@@ -274,7 +307,7 @@ pie(
   init.angle = -50, border = NA
 )&lt;/code&gt;&lt;/pre&gt;
 &lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;/personal-website/personal-website/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
+&lt;img src=&#34;/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 Figure 1: A fancy pie chart.
 &lt;/p&gt;
@@ -284,38 +317,38 @@ Figure 1: A fancy pie chart.
     </item>
     
     <item>
-      <title>Reﬂexed ﬂowers in Aeschynomene amorphoides (Fabaceae: Faboideae): a mechanism promoting pollination specialization?</title>
-      <link>/personal-website/publication/paper-2015.1-bjls/</link>
-      <pubDate>Tue, 17 Mar 2015 00:00:00 +0100</pubDate>
+      <title>Evolution of the selﬁng syndrome in Arabis alpina (Brassicaceae)</title>
+      <link>/publication/paper-2015.2-plos/</link>
+      <pubDate>Wed, 03 Jun 2015 00:00:00 +0200</pubDate>
       
-      <guid>/personal-website/publication/paper-2015.1-bjls/</guid>
+      <guid>/publication/paper-2015.2-plos/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>What survived from the PLANAFLORO Project: angiosperms of Rondônia state, Brazil</title>
-      <link>/personal-website/publication/paper-2014-checklist/</link>
-      <pubDate>Sat, 01 Feb 2014 00:00:00 +0100</pubDate>
+      <title>Reﬂexed ﬂowers in Aeschynomene amorphoides (Fabaceae: Faboideae): a mechanism promoting pollination specialization?</title>
+      <link>/publication/paper-2015.1-bjls/</link>
+      <pubDate>Tue, 17 Mar 2015 00:00:00 +0100</pubDate>
       
-      <guid>/personal-website/publication/paper-2014-checklist/</guid>
+      <guid>/publication/paper-2015.1-bjls/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Coming soon</title>
-      <link>/personal-website/talk/example-talk/</link>
+      <link>/talk/example-talk/</link>
       <pubDate>Thu, 01 Jan 1970 01:00:00 +0100</pubDate>
       
-      <guid>/personal-website/talk/example-talk/</guid>
+      <guid>/talk/example-talk/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>/personal-website/talk/example-talk/</link>
+      <link>/talk/example-talk/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/personal-website/talk/example-talk/</guid>
+      <guid>/talk/example-talk/</guid>
       <description>&lt;!DOCTYPE html&gt;
 
 &lt;html xmlns=&#34;http://www.w3.org/1999/xhtml&#34;&gt;

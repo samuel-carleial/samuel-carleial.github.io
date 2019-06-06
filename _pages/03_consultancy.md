@@ -8,4 +8,4 @@ toc: false
 ---
 
 
-I can provide you help with data analysis on basic or advanced statistical methods. Please write me an email and explain your case. Depending on my skills and time I would be more than happy to help you!
+I can provide you help with data analysis on basic or advanced statistical methods. For such, please write me an email, explaining me your case. Depending on my skills and time, I would be more than happy to help!

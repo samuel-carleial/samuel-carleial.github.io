@@ -142,6 +142,9 @@ footer:
     - label: ""
       icon: "fab fa-fw fa-researchgate"
       url: "https://www.researchgate.net/profile/Samuel_Carleial"
+    - label: ""
+      icon: "/assets/images/lattes-icon.png"
+      url: "http://lattes.cnpq.br/0951249566440652"
 
 # Reading Files
 include:

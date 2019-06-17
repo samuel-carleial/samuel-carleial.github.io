@@ -127,7 +127,7 @@ author:
       icon: "fab fa-fw fa-researchgate"
       url: "https://www.researchgate.net/profile/Samuel_Carleial"
     - label: "Currículo Lattes"
-      icon: "/assets/images/lattes_icon_black.png"
+      icon: "/assets/images/lattes_icon_black.svg"
       url: "http://lattes.cnpq.br/0951249566440652"
 
 # Site Footer
@@ -146,7 +146,7 @@ footer:
       icon: "fab fa-fw fa-researchgate"
       url: "https://www.researchgate.net/profile/Samuel_Carleial"
     - label: ""
-      icon: "/assets/images/lattes_icon_white.png"
+      icon: "/assets/images/lattes_icon_white.svg"
       url: "http://lattes.cnpq.br/0951249566440652"
 
 # Reading Files

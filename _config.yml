@@ -114,6 +114,9 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:samuel.carleial@uni-konstanz.de
+    - label: "Currículo Lattes"
+      icon: "/assets/images/lattes_icon_black.svg"
+      url: "http://lattes.cnpq.br/0951249566440652"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/samuel-carleial"
@@ -126,13 +129,13 @@ author:
     - label: "ResearchGate"
       icon: "fab fa-fw fa-researchgate"
       url: "https://www.researchgate.net/profile/Samuel_Carleial"
-    - label: "Currículo Lattes"
-      icon: "/assets/images/lattes_icon_black.svg"
-      url: "http://lattes.cnpq.br/0951249566440652"
 
 # Site Footer
 footer:
   links:
+    - label: ""
+      icon: "/assets/images/lattes_icon_white.svg"
+      url: "http://lattes.cnpq.br/0951249566440652"
     - label: ""
       icon: "fab fa-fw fa-github"
       url: "https://github.com/samuel-carleial"
@@ -145,9 +148,6 @@ footer:
     - label: ""
       icon: "fab fa-fw fa-researchgate"
       url: "https://www.researchgate.net/profile/Samuel_Carleial"
-    - label: ""
-      icon: "/assets/images/lattes_icon_white.svg"
-      url: "http://lattes.cnpq.br/0951249566440652"
 
 # Reading Files
 include:

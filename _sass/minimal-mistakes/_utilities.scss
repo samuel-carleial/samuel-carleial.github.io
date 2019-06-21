@@ -199,6 +199,10 @@ body:hover .visually-hidden button {
 
 /* social icons*/
 
+.social-icons .svg-inline--fa {
+  color: inherit !important;
+}
+
 .social-icons {
   .fas,
   .fab,

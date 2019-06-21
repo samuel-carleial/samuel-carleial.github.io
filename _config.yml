@@ -103,51 +103,59 @@ analytics:
     tracking_id          :
     anonymize_ip         : true # true, false (default)
 
-
 # Site Author
 author:
   name             : "Samuel Carleial"
-  avatar           : /assets/images/me.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/me.jpg"
   bio              : "Biologist and Data Analyst"
   location         : "Konstanz, Germany"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:samuel.carleial@uni-konstanz.de
+      url: "mailto:samuel.carleial@uni-konstanz.de"
+
+    - label: "Currículo Lattes"
+      icon: "fab fa-fw fa-user"
+      url: "http://lattes.cnpq.br/0951249566440652"
+
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/samuel-carleial"
+
     - label: "Google Scholar"
-      icon: "fab fa-google"
+      icon: "fab fa-fw fa-google"
       url: "https://scholar.google.de/citations?user=cmQhvlEAAAAJ&hl=en"
+
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/samuel-carleial/"
+
     - label: "ResearchGate"
       icon: "fab fa-fw fa-researchgate"
       url: "https://www.researchgate.net/profile/Samuel_Carleial"
-    - label: "Currículo Lattes"
-      icon: "/assets/images/lattes_icon_black.svg"
-      url: "http://lattes.cnpq.br/0951249566440652"
 
 # Site Footer
 footer:
   links:
     - label: ""
+      icon: "fab fa-fw fa-user"
+      url: "http://lattes.cnpq.br/0951249566440652"
+
+    - label: ""
       icon: "fab fa-fw fa-github"
       url: "https://github.com/samuel-carleial"
+
     - label: ""
-      icon: "fab fa-google"
+      icon: "fab fa-fw fa-google"
       url: "https://scholar.google.de/citations?user=cmQhvlEAAAAJ&hl=en"
+
     - label: ""
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/samuel-carleial/"
+
     - label: ""
       icon: "fab fa-fw fa-researchgate"
       url: "https://www.researchgate.net/profile/Samuel_Carleial"
-    - label: ""
-      icon: "/assets/images/lattes_icon_white.svg"
-      url: "http://lattes.cnpq.br/0951249566440652"
 
 # Reading Files
 include:
@@ -186,14 +194,12 @@ keep_files:
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
-
 # Conversion
 markdown: kramdown
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
-
 
 # Markdown Processing
 kramdown:
@@ -206,19 +212,16 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
-
 # Sass/SCSS
 sass:
   sass_dir: _sass
   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
-
 
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
 
 # Plugins (previously gems:)
 plugins:
@@ -237,7 +240,6 @@ whitelist:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-
 
 # Archives
 #  Type
@@ -267,7 +269,6 @@ tag_archive:
 #     category: /categories/:name/
 #     tag: /tags/:name/
 
-
 # HTML Compression
 # - http://jch.penibelst.de/
 compress_html:
@@ -275,10 +276,8 @@ compress_html:
   ignore:
     envs: development
 
-
 # Defaults
 defaults:
-
   # _pages
   - scope:
       path: "_pages"

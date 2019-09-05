@@ -16,6 +16,10 @@ minimal_mistakes_skin    : "contrast" # "default", "air", "aqua", "contrast", "d
 
 # Site Settings
 locale                   : "en-US"
+languages                : ['en', 'pt-BR', 'es']
+default_lang             : 'en'
+exclude_from_localization: ['javascript', 'images', 'css']
+parallel_localization    : false
 title                    : "Personal website"
 title_separator          : "-"
 name                     : "Samuel Carleial"
@@ -115,7 +119,7 @@ author:
       url: "mailto:samuel.carleial@uni-konstanz.de"
 
     - label: "Currículo Lattes"
-      icon: "fab fa-fw fa-user"
+      icon: "fas fa-user"
       url: "http://lattes.cnpq.br/0951249566440652"
 
     - label: "GitHub"
@@ -138,7 +142,7 @@ author:
 footer:
   links:
     - label: ""
-      icon: "fab fa-fw fa-user"
+      icon: "fas fa-user"
       url: "http://lattes.cnpq.br/0951249566440652"
 
     - label: ""
@@ -231,6 +235,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-polyglot
 
 # mimic GitHub Pages with --safe
 whitelist:

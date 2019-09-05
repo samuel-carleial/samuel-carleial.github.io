@@ -2,9 +2,10 @@
 title: "About me"
 layout: "single"
 permalink: "/01_about/"
+lang: "en"
 ---
 
-The way we commonly perceive the world, by following our ideals, is to usually think that we can plan our lives until the point that we reach our dream(s). We have passions and thus life goals. Well, I am not different. I have always had a dream of becoming a scientist. To help making new discoveries or to help protecting rainforests and nature was my goal. This was a natural thing, since I come from a country with high biodiversity, Brazil, and it was kind of my duty to do so. 
+The way we commonly perceive the world, by following our ideals, is to usually think that we can plan our lives until the point that we reach our dream(s). We have passions and thus life goals. Well, I am not different. I have always had a dream of becoming a scientist. To help making new discoveries or to help protecting rainforests and nature was my goal. This was a natural thing, since I come from a country with high biodiversity, Brazil, and it was kind of my duty to do so.
 
 Life is hard, however, and on the way I faced several adversities. Contrary to many friends and colleagues who decided to step down from academia, I still resisted. Against the odds, I completed a PhD in Ecology, and for few years now I have worked with science moving from quite different research fields (botany, systematics, ecology…), until I recently ended up in doing trauma research (psychology!). My passion for science and programming made me who I am now.
 

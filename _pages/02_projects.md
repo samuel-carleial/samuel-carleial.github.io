@@ -6,7 +6,7 @@ permalink: "/02_projects/"
 
 ## Project descriptions:
 
-### - Epigenetic database and analyses (2019)
+### - Epigenetic database and analyses (2019 - 2020)
 Currently, I am involved in various international studies that have (or plan to) collect data on epigenetics with association with psychological measures, and which were supervised by Prof. Emeritus Thomas Elbert. I am building and maintaining a database of those studies at the University of Konstanz, where they are stored. My tasks are to centralize, integrate and manage the data of over 10 studies in 8 countries in Africa and Latin America. The abovementioned studies measured violence and psychological outcomes, such as depression, aggression and PTSD in relation to Narrative Therapy Exposure (NET).
 
 ### - THL Android App (2018)

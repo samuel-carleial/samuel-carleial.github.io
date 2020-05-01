@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme             : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "contrast" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -22,13 +22,13 @@ exclude_from_localization: ['javascript', 'images', 'css']
 parallel_localization    : false
 title                    : "Personal website"
 title_separator          : "-"
-name                     : "Samuel Carleial"
+name                     : "Samuel Carleial Fernandes"
 description              : "This website is intended to gather all relevant information about my professional career. Here, I share my professional background and current working situation, together with my publications, projects and future work ideas."
 url                      : "https://samuel-carleial.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "samuel-carleial/samuel-carleial.github.io"
-teaser                   : "/assets/images/teaser.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+teaser                   : #"/assets/images/teaser.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     : #"/assets/images/logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 200
@@ -109,12 +109,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Samuel Carleial"
+  name             : "Samuel Carleial Fernandes"
   avatar           : "/assets/images/me.jpg"
   bio              : "Biologist and Data Analyst"
   location         : "Konstanz, Germany"
   links:
-    - label: "Email"
+    - label: "E-mail"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:samuel.carleial@uni-konstanz.de"
 

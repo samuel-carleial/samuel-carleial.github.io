@@ -5,9 +5,17 @@ main:
     url: "/01_about/"
 
   - title: "Projects"
-    description: "Current projects"
+    description: "My previous and current projects"
     url: "/02_projects/"
+
+  - title: "Collaborations"
+    description: "My previous and current collaborations"
+    url: "/03_collaborations/"
+
+  - title: "Inform yourself"
+    description: "Suggested links for research, outreach and engagement"
+    url: "/04_inform_yourself/"
 
   - title: "Consultancy"
     description: "Need help with analysis? Contact me!"
-    url: "/03_consultancy/"
+    url: "/05_consultancy/"

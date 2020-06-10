@@ -1,9 +1,7 @@
 ---
 title: "Do you need help with data analysis?"
 layout: "single"
-permalink: "/03_consultancy/"
-
-last_modified_at: 2019-05-20
+permalink: "/05_consultancy/"
 toc: false
 ---
 

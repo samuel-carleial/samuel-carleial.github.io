@@ -64,7 +64,7 @@ Key features:
 
 Academic is available in different color themes and font themes.
 
-{{< gallery >}}
+
 
 ## Install
 

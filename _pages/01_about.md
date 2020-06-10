@@ -2,11 +2,12 @@
 title: "About me"
 layout: "single"
 permalink: "/01_about/"
-lang: "en"
+last_modified_at: 2019-09-01
+toc: false
 ---
 
-<p style='text-align: justify;'> Since childhood, I started day-dreaming of becoming a scientist. I wanted to make discoveries and help save the rainforests. I never actually knew how to get there, but after studying Biology for over several years I actually managed to be a scientist. </p>
 
+<p style='text-align: justify;'> I dreamed of becoming a scientist since childhood. I wanted to make discoveries and help save the rainforests. I never actually knew how to get there, but after studying Biology for over several years I indeed managed to be a scientist. </p>
 
 <p style='text-align: justify;'> I completed a PhD in Ecology and for few years now I have worked with science moving from quite different research fields (botany, systematics, ecology…), until I recently ended up doing trauma research (on Psychology). My passion for science and programming made me who I am now. </p>
 

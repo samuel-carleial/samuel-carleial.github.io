@@ -117,9 +117,13 @@
         <ul class="visible-links"><li class="masthead__menu-item">
               <a href="/01_about/" title="My background and previous work">About</a>
             </li><li class="masthead__menu-item">
-              <a href="/02_projects/" title="Current projects">Projects</a>
+              <a href="/02_projects/" title="My previous and current projects">Projects</a>
             </li><li class="masthead__menu-item">
-              <a href="/03_consultancy/" title="Need help with analysis? Contact me!">Consultancy</a>
+              <a href="/03_collaborations/" title="My previous and current collaborations">Collaborations</a>
+            </li><li class="masthead__menu-item">
+              <a href="/04_inform_yourself/" title="Suggested links for research, outreach and engagement">Inform yourself</a>
+            </li><li class="masthead__menu-item">
+              <a href="/05_consultancy/" title="Need help with analysis? Contact me!">Consultancy</a>
             </li></ul>
         
         <button class="search__toggle" type="button">
@@ -148,7 +152,7 @@ title = “Academic: the website designer for Hugo”</p>
 lastmod = 2018-01-13T00:00:00
 draft = false</p>
 
-<h1 id="authors-comma-separated-list-eg-bob-smith-david-jones">Authors. Comma separated list, e.g. <code class="highlighter-rouge">["Bob Smith", "David Jones"]</code>.</h1>
+<h1 id="authors-comma-separated-list-eg-bob-smith-david-jones">Authors. Comma separated list, e.g. <code class="language-plaintext highlighter-rouge">["Bob Smith", "David Jones"]</code>.</h1>
 <p>authors = []</p>
 
 <p>tags = [“Academic”]
@@ -228,7 +232,7 @@ caption = “1950s”
       <li>Netlify will provide you with a customizable URL to access your new site</li>
     </ul>
   </li>
-  <li>On GitHub, go to your newly created <code class="highlighter-rouge">academic-kickstart</code> repository and edit <code class="highlighter-rouge">config.toml</code> to personalize your site. Shortly after saving the file, your site will automatically update</li>
+  <li>On GitHub, go to your newly created <code class="language-plaintext highlighter-rouge">academic-kickstart</code> repository and edit <code class="language-plaintext highlighter-rouge">config.toml</code> to personalize your site. Shortly after saving the file, your site will automatically update</li>
   <li>Read the <a href="https://sourcethemes.com/academic/docs/">Quick Start Guide</a> to learn how to add Markdown content. For inspiration, refer to the <a href="https://github.com/gcushen/hugo-academic/tree/master/exampleSite">Markdown content</a> which powers the <a href="https://themes.gohugo.io/theme/academic/">Demo</a></li>
 </ol>
 
@@ -245,15 +249,15 @@ caption = “1950s”
   <li>
     <p><a href="https://github.com/sourcethemes/academic-kickstart#fork-destination-box">Fork</a> the <em>Academic Kickstart</em> repository and clone your fork with Git:</p>
 
-    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code> git clone https://github.com/sourcethemes/academic-kickstart.git My_Website
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code> git clone https://github.com/sourcethemes/academic-kickstart.git My_Website
 </code></pre></div>    </div>
 
-    <p><em>Note that if you forked Academic Kickstart, the above command should be edited to clone your fork, i.e. replace <code class="highlighter-rouge">sourcethemes</code> with your GitHub username.</em></p>
+    <p><em>Note that if you forked Academic Kickstart, the above command should be edited to clone your fork, i.e. replace <code class="language-plaintext highlighter-rouge">sourcethemes</code> with your GitHub username.</em></p>
   </li>
   <li>
     <p>Initialize the theme:</p>
 
-    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code> cd My_Website
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code> cd My_Website
  git submodule update --init --recursive
 </code></pre></div>    </div>
   </li>
@@ -263,7 +267,7 @@ caption = “1950s”
 
 <ol>
   <li><a href="https://github.com/sourcethemes/academic-kickstart/archive/master.zip">Download</a> and extract <em>Academic Kickstart</em></li>
-  <li><a href="https://github.com/gcushen/hugo-academic/archive/master.zip">Download</a> and extract the <em>Academic theme</em> to the <code class="highlighter-rouge">themes/academic/</code> folder from the above step</li>
+  <li><a href="https://github.com/gcushen/hugo-academic/archive/master.zip">Download</a> and extract the <em>Academic theme</em> to the <code class="language-plaintext highlighter-rouge">themes/academic/</code> folder from the above step</li>
 </ol>
 
 <h3 id="install-with-rstudio">Install with RStudio</h3>
@@ -276,7 +280,7 @@ caption = “1950s”
   <li>
     <p>If you installed on your computer, view your new website by running the following command:</p>
 
-    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code> hugo server
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code> hugo server
 </code></pre></div>    </div>
 
     <p>Now visit <a href="http://localhost:1313">localhost:1313</a> and your new Academic powered website will appear. Otherwise, if using Netlify, they will provide you with your URL.</p>
@@ -285,7 +289,7 @@ caption = “1950s”
     <p>Read the <a href="https://sourcethemes.com/academic/docs/">Quick Start Guide</a> to learn how to add Markdown content, customize your site, and deploy it. For inspiration, refer to the <a href="https://github.com/gcushen/hugo-academic/tree/master/exampleSite">Markdown content</a> which powers the <a href="https://themes.gohugo.io/theme/academic/">Demo</a></p>
   </li>
   <li>
-    <p>Build your site by running the <code class="highlighter-rouge">hugo</code> command. Then <a href="https://georgecushen.com/create-your-website-with-hugo/">host it for free using Github Pages</a> or Netlify (refer to the first installation method). Alternatively, copy the generated <code class="highlighter-rouge">public/</code> directory (by FTP, Rsync, etc.) to your production web server (such as a university’s hosting service).</p>
+    <p>Build your site by running the <code class="language-plaintext highlighter-rouge">hugo</code> command. Then <a href="https://georgecushen.com/create-your-website-with-hugo/">host it for free using Github Pages</a> or Netlify (refer to the first installation method). Alternatively, copy the generated <code class="language-plaintext highlighter-rouge">public/</code> directory (by FTP, Rsync, etc.) to your production web server (such as a university’s hosting service).</p>
   </li>
 </ol>
 
@@ -293,7 +297,7 @@ caption = “1950s”
 
 <p>Feel free to <em>star</em> the project on <a href="https://github.com/gcushen/hugo-academic/">Github</a> to help keep track of updates and check out the <a href="https://sourcethemes.com/academic/updates">release notes</a> prior to updating your site.</p>
 
-<p>Before updating the framework, it is recommended to make a backup of your entire website directory (or at least your <code class="highlighter-rouge">themes/academic</code> directory) and record your current version number.</p>
+<p>Before updating the framework, it is recommended to make a backup of your entire website directory (or at least your <code class="language-plaintext highlighter-rouge">themes/academic</code> directory) and record your current version number.</p>
 
 <p>By default, Academic is installed as a Git submodule which can be updated by running the following command:</p>
 

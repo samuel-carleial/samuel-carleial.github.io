@@ -20,8 +20,8 @@ languages                : ['en', 'pt-BR', 'es']
 default_lang             : 'en'
 exclude_from_localization: ['javascript', 'images', 'css']
 parallel_localization    : false
-title                    : "Personal website"
-title_separator          : "-"
+title                    : "Samuel Carleial Fernandes"
+title_separator          : " "
 name                     : "Samuel Carleial Fernandes"
 description              : "This website is intended to gather all relevant information about my professional career. Here, I share my professional background and current working situation, together with my publications, projects and future work ideas."
 url                      : "https://samuel-carleial.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -109,7 +109,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Samuel Carleial Fernandes"
+  name             : "Personal info"
   avatar           : "/assets/images/me.jpg"
   bio              : "Biologist and Data Analyst"
   location         : "Konstanz, Germany"

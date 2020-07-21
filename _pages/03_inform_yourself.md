@@ -31,6 +31,10 @@ Knowledge is power. Using the internet, we are lucky to have so much information
 <a style="font-size:15px" href="https://www.sciencedaily.com/">ScienceDaily;</a>
 
 
+## Literature Review
+<a style="font-size:15px" href="https://www.connectedpapers.com/">Connected Papers;</a>
+
+
 ## Podcasts
 <a style="font-size:15px" href="https://piaui.folha.uol.com.br/radio-piaui/foro-de-teresina/">Foro de Teresina (Revista Piauí);</a>
 <a style="font-size:15px" href="https://piaui.folha.uol.com.br/radio-piaui/terra-e-redonda/">A Terra é Redonda (Revista Piauí);</a>

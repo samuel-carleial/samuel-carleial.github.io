@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/01_projects/</loc>
+<loc>https://samuel-carleial.github.io//01_projects/</loc>
 <lastmod>2020-06-10T00:00:00+02:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/02_collaborations/</loc>
+<loc>https://samuel-carleial.github.io//02_collaborations/</loc>
 <lastmod>2020-06-10T00:00:00+02:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/03_inform_yourself/</loc>
+<loc>https://samuel-carleial.github.io//03_inform_yourself/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/04_consultancy/</loc>
+<loc>https://samuel-carleial.github.io//04_consultancy/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/</loc>
+<loc>https://samuel-carleial.github.io//</loc>
 </url>
 <url>
-<loc>http://localhost:4000/assets/documents/cv_carleial_2019_1.nophoto.pdf</loc>
+<loc>https://samuel-carleial.github.io//assets/documents/cv_carleial_2019_1.nophoto.pdf</loc>
 <lastmod>2019-06-18T11:34:31+02:00</lastmod>
 </url>
 </urlset>

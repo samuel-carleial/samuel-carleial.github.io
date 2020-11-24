@@ -12,6 +12,10 @@ main:
     description: "Suggested links for research, outreach and engagement"
     url: "/03_inform_yourself/"
 
+  - title: "Tools"
+    description: "Need help with analysis? Contact me!"
+    url: "/04_tools/"
+
   - title: "Consultancy"
     description: "Need help with analysis? Contact me!"
-    url: "/04_consultancy/"
+    url: "/05_consultancy/"

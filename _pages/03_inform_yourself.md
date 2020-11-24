@@ -2,6 +2,7 @@
 title: "Link suggestions"
 layout: "single"
 permalink: "/03_inform_yourself/"
+last_modified_at: 2020-11-24
 toc: true
 ---
 
@@ -32,10 +33,6 @@ Knowledge is power. Using the internet, we are lucky to have so much information
 <a style="font-size:15px" href="https://www.newscientist.com/">New Scientist;</a>
 <a style="font-size:15px" href="https://thefairjournal.com/">The Fair Journal;</a>
 <a style="font-size:15px" href="https://www.sciencedaily.com/">ScienceDaily;</a>
-
-
-## Literature Review
-<a style="font-size:15px" href="https://www.connectedpapers.com/">Connected Papers;</a>
 
 
 ## Podcasts

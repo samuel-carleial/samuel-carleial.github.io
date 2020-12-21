@@ -2,7 +2,7 @@
 title: "Link suggestions"
 layout: "single"
 permalink: "/03_inform_yourself/"
-last_modified_at: 2020-11-24
+last_modified_at: 2020-12-21
 toc: true
 ---
 
@@ -52,3 +52,11 @@ Knowledge is power. Using the internet, we are lucky to have so much information
 <a style="font-size:15px" href="https://www.kooperation-brasilien.org/de/">KoBra - Kooperation Brasilien;</a>
 <a style="font-size:15px" href="https://topnonprofits.com/">Top Non Profits;</a>
 <a style="font-size:15px" href="https://www.tt-intl.org/">Trauma Treatment International;</a>
+<a style="font-size:15px" href="https://www.vivo.org/en/">vivo international;</a>
+
+
+## People & Blog
+<a style="font-size:15px" href="https://rafalab.github.io/">Irizarry lab</a>
+<a style="font-size:15px" href="https://simplystatistics.org/">Simply Statistics</a>
+<a style="font-size:15px" href="https://benwhalley.github.io/just-enough-r/">Just Enough R</a>
+<a style="font-size:15px" href="https://www.r-graph-gallery.com/index.html">The R Graph Gallery</a>

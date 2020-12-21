@@ -9,14 +9,14 @@
   <head>
     <meta charset="utf-8">
 
-<!-- begin _includes/seo.html --><title>Tools   Samuel Carleial Fernandes</title>
-<meta name="description" content="This website is intended to gather all relevant information about my professional career. Here, I share my professional background and current working situation, together with my publications, projects and future work ideas.">
+<!-- begin _includes/seo.html --><title>Tools   Samuel Carleial (Fernandes)</title>
+<meta name="description" content="This website gathers all relevant information about my professional career. Here, I share my professional background and current working situation, together with my publications, projects and future work ideas.">
 
 
 
 <meta property="og:type" content="website">
 <meta property="og:locale" content="en_US">
-<meta property="og:site_name" content="Samuel Carleial Fernandes">
+<meta property="og:site_name" content="Samuel Carleial (Fernandes)">
 <meta property="og:title" content="Tools">
 <meta property="og:url" content="http://localhost:4000/04_tools/">
 
@@ -48,7 +48,7 @@
     {
       "@context": "https://schema.org",
       "@type": "Person",
-      "name": "Samuel Carleial Fernandes",
+      "name": "Samuel Carleial (Fernandes)",
       "url": "http://localhost:4000",
       "sameAs": null
     }
@@ -63,7 +63,7 @@
 <!-- end _includes/seo.html -->
 
 
-<link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Samuel Carleial Fernandes Feed">
+<link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Samuel Carleial (Fernandes) Feed">
 
 <!-- https://t.co/dKP3o1e -->
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -113,7 +113,7 @@
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
         
-        <a class="site-title" href="/">Samuel Carleial Fernandes</a>
+        <a class="site-title" href="/">Samuel Carleial (Fernandes)</a>
         <ul class="visible-links"><li class="masthead__menu-item">
               <a href="/01_projects/" title="My previous and current projects">Projects</a>
             </li><li class="masthead__menu-item">
@@ -299,22 +299,34 @@
             <nav class="toc">
               <header><h4 class="nav__title"><i class="fas fa-file-alt"></i> On this page</h4></header>
               <ul class="toc__menu">
-  <li><a href="#data-analysis">Data analysis</a>
+  <li><a href="#data-analysis-general">Data analysis (general)</a>
     <ul>
-      <li><a href="#snakemake-workflow-management-system">Snakemake workflow management system</a></li>
-      <li><a href="#workflowr-r-package">workflowr (R package)</a></li>
+      <li><a href="#snakemake">snakemake</a></li>
+      <li><a href="#workflowr">workflowr</a></li>
     </ul>
   </li>
-  <li><a href="#bioinformaticgenetic-analysis">Bioinformatic/Genetic analysis</a>
+  <li><a href="#bioinformatics">Bioinformatics</a>
     <ul>
-      <li><a href="#galaxy">Galaxy</a></li>
-      <li><a href="#genome-browsers">Genome browsers</a></li>
+      <li><a href="#galaxyorg">galaxy.org</a></li>
+      <li><a href="#genome-browsers">genome browsers</a></li>
+      <li><a href="#gene-ontology">gene ontology</a></li>
     </ul>
   </li>
-  <li><a href="#research">Research</a>
+  <li><a href="#epigenetics-in-r">Epigenetics (in R)</a>
     <ul>
-      <li><a href="#connected-papers-tool-for-literature-reviews">Connected papers: tool for literature reviews</a></li>
-      <li><a href="#minimpy-parallel-randomization-for-experimental-designs">MinimPy: parallel randomization for experimental designs</a></li>
+      <li><a href="#software">software</a></li>
+      <li><a href="#references">references</a></li>
+    </ul>
+  </li>
+  <li><a href="#literature-search">Literature search</a>
+    <ul>
+      <li><a href="#connected-papers">connected papers</a></li>
+      <li><a href="#docear">docear</a></li>
+    </ul>
+  </li>
+  <li><a href="#randomization">Randomization</a>
+    <ul>
+      <li><a href="#minimpy">minimpy</a></li>
     </ul>
   </li>
 </ul>
@@ -322,46 +334,85 @@
           </aside>
         
         <p style="font-size:15px" align="justify">
-List of software (for now, alphabetically ordered) that are important tools for data science &amp; research. This is an ongoing work.
+Platforms and software for data science &amp; research.<br />
+(ongoing compilation; in alphabetical order)
 </p>
 
-<h2 id="data-analysis">Data analysis</h2>
-<h3 id="snakemake-workflow-management-system">Snakemake workflow management system</h3>
+<h2 id="data-analysis-general">Data analysis (general)</h2>
+<h3 id="snakemake">snakemake</h3>
 <p style="font-size:15px" align="justify">
 <em>"The Snakemake workflow management system is a tool to create reproducible and scalable data analyses. Workflows are described via a human readable, Python based language. They can be seamlessly scaled to server, cluster, grid and cloud environments, without the need to modify the workflow definition. Finally, Snakemake workflows can entail a description of required software, which will be automatically deployed to any execution environment."</em> (taken from official  website)
 <br /><a href="https://snakemake.readthedocs.io/en/stable/">snakemake</a>
 </p>
 
-<h3 id="workflowr-r-package">workflowr (R package)</h3>
+<h3 id="workflowr">workflowr</h3>
 <p style="font-size:15px" align="justify">
 <em>"The workflowr R package helps researchers organize their analyses in a way that promotes effective project management, reproducibility, collaboration, and sharing of results. Workflowr combines literate programming (knitr and rmarkdown) and version control (Git, via git2r) to generate a website containing time-stamped, versioned, and documented results. Any R user can quickly and easily adopt workflowr."</em> (taken from official  website)
 <br /><a href="https://jdblischak.github.io/workflowr/">workflowr</a>
 </p>
 
-<h2 id="bioinformaticgenetic-analysis">Bioinformatic/Genetic analysis</h2>
-<h3 id="galaxy">Galaxy</h3>
+<h2 id="bioinformatics">Bioinformatics</h2>
+<h3 id="galaxyorg">galaxy.org</h3>
 <p style="font-size:15px" align="justify">
 <em>"Galaxy is an open, web-based platform for accessible, reproducible, and transparent computational research."</em> (taken from official  website)
 <br /><a href="https://galaxyproject.org/">Galaxy</a>
 </p>
 
-<h3 id="genome-browsers">Genome browsers</h3>
+<h3 id="genome-browsers">genome browsers</h3>
 <p style="font-size:15px" align="justify">
 Genome browsers are online tools to help access various genetic information dynamically  and in a personalized way. There are multiple applications and tons of information accessible  there.
 <br /><a href="https://genome-euro.ucsc.edu/">University of California Santa Cruz (UCSC)</a>
 <br /><a href="https://www.ncbi.nlm.nih.gov/genome/gdv/">National Center for Biotechnology Information (NCBI)</a>
 </p>
 
-<h2 id="research">Research</h2>
-<h3 id="connected-papers-tool-for-literature-reviews">Connected papers: tool for literature reviews</h3>
+<h3 id="gene-ontology">gene ontology</h3>
 <p style="font-size:15px" align="justify">
-Give a specific paper and see what it comes out of it in terms of publication citations and connections between papers. Visual appealing and intuitive.
-<br /><a href="https://www.connectedpapers.com/#">Connected Papers</a>
+Gene ontology terms are used to standardize and facilitate a common language in genetics. <em>"An ontology is a formal representation of a body of knowledge within a given domain. Ontologies usually consist of a set of classes (or terms or concepts) with relations that operate between them. The Gene Ontology (GO) describes our knowledge of the biological domain with respect to... molecular functions (MF), biological processes (BP) and cellular components (CP)..."</em> (taken from official  website)
+<br /><a href="http://geneontology.org/">Gene Ontology - Unifying Biology</a>
 </p>
 
-<h3 id="minimpy-parallel-randomization-for-experimental-designs">MinimPy: parallel randomization for experimental designs</h3>
 <p style="font-size:15px" align="justify">
-<em>"a desktop application program for sequential allocation of subjects to treatment groups in clinical trials by using the method of minimization"</em> (taken from official website).
+<br />A list of platforms to conduct gene-ontology and gene-network analysis
+<br /><a href="http://www-legacy.geneontology.org/GO.tools_by_type.browser.shtml">External list (website maybe not safe)</a>
+<br /><a href="http://www.pantherdb.org/">PANTHER</a>
+<br /><a href="https://string-db.org/">String</a>
+<br /><a href="https://david.ncifcrf.gov/">DAVID</a>
+</p>
+
+<h2 id="epigenetics-in-r">Epigenetics (in R)</h2>
+<h3 id="software">software</h3>
+<p style="font-size:15px" align="justify">
+<a href="https://bioconductor.org/">Bioconductor</a> has a comprehensive list of packages related to epigenetic data analysis. <a href="https://bioconductor.org/help/search/index.html?q=epigenetics/">See search results.</a> Main examples:
+<br /><a href="https://pubmed.ncbi.nlm.nih.gov/24478339/">minfi</a>
+<br /><a href="https://academic.oup.com/nar/article/43/7/e47/2414268">limma</a>
+<br /><a href="https://academic.oup.com/bioinformatics/article/34/23/3983/5042224">meffil</a>
+<br /><a href="https://rnbeads.org/index.html">RnBeads</a>
+<br /><a href="https://academic.oup.com/bioinformatics/article/33/24/3982/4082274">ChAMP</a>
+<br /><a href="https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-2804-7">pwrEWAS</a>
+</p>
+
+<h3 id="references">references</h3>
+<p style="font-size:15px" align="justify">
+<a href="https://epigenie.com/epigenetic-tools-and-databases/">epigenie</a>
+</p>
+
+<h2 id="literature-search">Literature search</h2>
+<h3 id="connected-papers">connected papers</h3>
+<p style="font-size:15px" align="justify">
+Give a specific paper and see what it comes out of it in terms of publication citations and connections between papers. Appealing visual and intuitive tool for literature reviews.
+<br /><a href="https://www.connectedpapers.com/">Connected Papers</a>
+</p>
+
+<h3 id="docear">doc<em>ear</em></h3>
+<p style="font-size:15px" align="justify">
+This is a neat tool for mind mapping and organization. <em>Docear is a unique solution to academic literature management, i.e. it helps you organizing, creating, and discovering academic literature.</em> (taken from official  website)
+<br /><a href="https://docear.com/">Doc<em>ear</em></a>
+</p>
+
+<h2 id="randomization">Randomization</h2>
+<h3 id="minimpy">minimpy</h3>
+<p style="font-size:15px" align="justify">
+JAVA application used for parallel randomization of experimental designs. <em>"A desktop application program for sequential allocation of subjects to treatment groups in clinical trials by using the method of minimization"</em> (taken from official website).
 <br /><a href="https://sourceforge.net/projects/minimpy/#">MinimPy</a>
 </p>
 
@@ -450,7 +501,7 @@ Give a specific paper and see what it comes out of it in terms of publication ci
   </ul>
 </div>
 
-<div class="page__footer-copyright">&copy; 2020 Samuel Carleial Fernandes. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+<div class="page__footer-copyright">&copy; 2020 Samuel Carleial (Fernandes). Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
 
       </footer>
     </div>

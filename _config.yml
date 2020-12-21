@@ -20,9 +20,9 @@ languages                : ['en', 'pt-BR', 'es']
 default_lang             : 'en'
 exclude_from_localization: ['javascript', 'images', 'css']
 parallel_localization    : false
-title                    : "Samuel Carleial Fernandes"
+title                    : "Samuel Carleial (Fernandes)"
 title_separator          : " "
-name                     : "Samuel Carleial Fernandes"
+name                     : "Samuel Carleial (Fernandes)"
 description              : "This website gathers all relevant information about my professional career. Here, I share my professional background and current working situation, together with my publications, projects and future work ideas."
 url                      : "https://samuel-carleial.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"

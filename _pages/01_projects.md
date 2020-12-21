@@ -7,7 +7,10 @@ toc: true
 ---
 
 
+<p style="font-size:15px" align="justify">
 List of recent projects which I am or was involved with.
+</p>
+
 
 ### Epigenetics of mental disorders (2019-now)
 <p style="font-size:15px" align="justify">

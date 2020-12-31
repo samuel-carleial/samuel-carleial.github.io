@@ -13,20 +13,6 @@ Platforms and software for data science & research.<br>
 </p>
 
 
-## Data analysis (general)
-### snakemake
-<p style="font-size:15px" align="justify">
-<em>"The Snakemake workflow management system is a tool to create reproducible and scalable data analyses. Workflows are described via a human readable, Python based language. They can be seamlessly scaled to server, cluster, grid and cloud environments, without the need to modify the workflow definition. Finally, Snakemake workflows can entail a description of required software, which will be automatically deployed to any execution environment."</em> (taken from official  website)
-<br><a href="https://snakemake.readthedocs.io/en/stable/">snakemake</a>
-</p>
-
-### workflowr
-<p style="font-size:15px" align="justify">
-<em>"The workflowr R package helps researchers organize their analyses in a way that promotes effective project management, reproducibility, collaboration, and sharing of results. Workflowr combines literate programming (knitr and rmarkdown) and version control (Git, via git2r) to generate a website containing time-stamped, versioned, and documented results. Any R user can quickly and easily adopt workflowr."</em> (taken from official  website)
-<br><a href="https://jdblischak.github.io/workflowr/">workflowr</a>
-</p>
-
-
 ## Bioinformatics
 ### galaxy.org
 <p style="font-size:15px" align="justify">
@@ -56,21 +42,35 @@ Gene ontology terms are used to standardize and facilitate a common language in 
 </p>
 
 
-## Epigenetics (in R)
+## Data analysis
+### snakemake
+<p style="font-size:15px" align="justify">
+<em>"The Snakemake workflow management system is a tool to create reproducible and scalable data analyses. Workflows are described via a human readable, Python based language. They can be seamlessly scaled to server, cluster, grid and cloud environments, without the need to modify the workflow definition. Finally, Snakemake workflows can entail a description of required software, which will be automatically deployed to any execution environment."</em> (taken from official  website)
+<br><a href="https://snakemake.readthedocs.io/en/stable/">snakemake</a>
+</p>
+
+### workflowr
+<p style="font-size:15px" align="justify">
+<em>"The workflowr R package helps researchers organize their analyses in a way that promotes effective project management, reproducibility, collaboration, and sharing of results. Workflowr combines literate programming (knitr and rmarkdown) and version control (Git, via git2r) to generate a website containing time-stamped, versioned, and documented results. Any R user can quickly and easily adopt workflowr."</em> (taken from official  website)
+<br><a href="https://jdblischak.github.io/workflowr/">workflowr</a>
+</p>
+
+
+## Epigenetics
 ### software
 <p style="font-size:15px" align="justify">
-<a href="https://bioconductor.org/">Bioconductor</a> has a comprehensive list of packages related to epigenetic data analysis. <a href="https://bioconductor.org/help/search/index.html?q=epigenetics/">See search results.</a> Main examples:
-<br><a href="https://pubmed.ncbi.nlm.nih.gov/24478339/">minfi</a>
-<br><a href="https://academic.oup.com/nar/article/43/7/e47/2414268">limma</a>
-<br><a href="https://academic.oup.com/bioinformatics/article/34/23/3983/5042224">meffil</a>
-<br><a href="https://rnbeads.org/index.html">RnBeads</a>
-<br><a href="https://academic.oup.com/bioinformatics/article/33/24/3982/4082274">ChAMP</a>
-<br><a href="https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-2804-7">pwrEWAS</a>
+<a href="https://bioconductor.org/">Bioconductor</a> has a comprehensive list of packages related to epigenetic data analysis. See search results in their database <a href="https://bioconductor.org/help/search/index.html?q=epigenetics/">here</a>. Main examples:
+<a href="https://pubmed.ncbi.nlm.nih.gov/24478339/">minfi</a>,
+<a href="https://academic.oup.com/nar/article/43/7/e47/2414268">limma</a>,
+<a href="https://academic.oup.com/bioinformatics/article/34/23/3983/5042224">meffil</a>,
+<a href="https://rnbeads.org/index.html">RnBeads</a>,
+<a href="https://academic.oup.com/bioinformatics/article/33/24/3982/4082274">ChAMP</a>,
+<a href="https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-2804-7">pwrEWAS</a>
 </p>
 
 ### references
 <p style="font-size:15px" align="justify">
-<a href="https://epigenie.com/epigenetic-tools-and-databases/">epigenie</a>
+Comprehensive information is gathered in <a href="https://epigenie.com/epigenetic-tools-and-databases/">epigenie</a>.
 </p>
 
 
@@ -93,4 +93,18 @@ This is a neat tool for mind mapping and organization. <em>Docear is a unique so
 <p style="font-size:15px" align="justify">
 JAVA application used for parallel randomization of experimental designs. <em>"A desktop application program for sequential allocation of subjects to treatment groups in clinical trials by using the method of minimization"</em> (taken from official website).
 <br><a href="https://sourceforge.net/projects/minimpy/#">MinimPy</a>
+</p>
+
+
+## Scientific Writing
+### rrtools
+<p style="font-size:15px" align="justify">
+Tools for writing reproducible research in R. <em>"The goal of rrtools is to provide instructions, templates, and functions for making a basic compendium suitable for writing a reproducible journal article or report with R. This package documents the key steps and provides convenient functions for quickly creating a new research compendium. The approach is based generally on Kitzes et al. (2017), and more specifically on Marwick (2017), Marwick et al. (2018), and Wickham’s (2017) work using the R package structure as the basis for a research compendium."</em> (taken from official website).
+<br><a href="https://github.com/benmarwick/rrtools">rrtools</a>
+</p>
+
+### rticles
+<p style="font-size:15px" align="justify">
+LaTeX-formatted templates for scientific articles to be written in R. <em>"The rticles package provides a suite of custom R Markdown LaTeX formats and templates for various formats. Most of the templates are provided and maintained by the community, and anyone can contribute a new template."</em> (taken from official website).
+<br><a href="https://cran.r-project.org/web/packages/rticles/index.html">rticles</a>
 </p>

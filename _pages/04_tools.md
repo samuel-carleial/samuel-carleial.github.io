@@ -43,6 +43,12 @@ Gene ontology terms are used to standardize and facilitate a common language in 
 
 
 ## Data analysis
+### rcompanion
+<p style="font-size:15px" align="justify">
+A whole bunch of things for R and Data Analysis
+<br><a href="https://rcompanion.org/handbook/">rcompanion</a>
+</p>
+
 ### snakemake
 <p style="font-size:15px" align="justify">
 <em>"The Snakemake workflow management system is a tool to create reproducible and scalable data analyses. Workflows are described via a human readable, Python based language. They can be seamlessly scaled to server, cluster, grid and cloud environments, without the need to modify the workflow definition. Finally, Snakemake workflows can entail a description of required software, which will be automatically deployed to any execution environment."</em> (taken from official  website)
@@ -96,7 +102,7 @@ JAVA application used for parallel randomization of experimental designs. <em>"A
 </p>
 
 
-## Scientific Writing
+## Scientific writing
 ### rrtools
 <p style="font-size:15px" align="justify">
 Tools for writing reproducible research in R. <em>"The goal of rrtools is to provide instructions, templates, and functions for making a basic compendium suitable for writing a reproducible journal article or report with R. This package documents the key steps and provides convenient functions for quickly creating a new research compendium. The approach is based generally on Kitzes et al. (2017), and more specifically on Marwick (2017), Marwick et al. (2018), and Wickham’s (2017) work using the R package structure as the basis for a research compendium."</em> (taken from official website).

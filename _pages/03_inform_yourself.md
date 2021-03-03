@@ -8,7 +8,7 @@ toc: true
 
 
 <p style="font-size:15px" align="justify">
-Knowledge is power. Using the internet, we are lucky to have so much information available in a matter of few clicks. Unfortunately there is a lot of junk or even deceiving information in the internet as well. Therefore, I here enlist a non-exhaustive collection of websites that may lead you to the light side of the force.
+Knowledge is power. With the internet, we are lucky to have so much information available in a matter of a few clicks. Unfortunately, there is a lot of junk or even deceiving information in the internet as well. Therefore, I here enlist a non-exhaustive collection of websites that may lead you to the light side of the force.
 </p>
 
 

@@ -18,7 +18,7 @@
 <meta property="og:locale" content="en_US">
 <meta property="og:site_name" content="Samuel Carleial (Fernandes)">
 <meta property="og:title" content="Tools">
-<meta property="og:url" content="http://localhost:4000/04_tools/">
+<meta property="og:url" content="https://samuel-carleial.github.io//04_tools/">
 
 
 
@@ -36,7 +36,7 @@
   
 
 
-<link rel="canonical" href="http://localhost:4000/04_tools/">
+<link rel="canonical" href="https://samuel-carleial.github.io//04_tools/">
 
 
 
@@ -49,7 +49,7 @@
       "@context": "https://schema.org",
       "@type": "Person",
       "name": "Samuel Carleial (Fernandes)",
-      "url": "http://localhost:4000",
+      "url": "https://samuel-carleial.github.io/",
       "sameAs": null
     }
   </script>
@@ -299,12 +299,6 @@
             <nav class="toc">
               <header><h4 class="nav__title"><i class="fas fa-file-alt"></i> On this page</h4></header>
               <ul class="toc__menu">
-  <li><a href="#data-analysis-general">Data analysis (general)</a>
-    <ul>
-      <li><a href="#snakemake">snakemake</a></li>
-      <li><a href="#workflowr">workflowr</a></li>
-    </ul>
-  </li>
   <li><a href="#bioinformatics">Bioinformatics</a>
     <ul>
       <li><a href="#galaxyorg">galaxy.org</a></li>
@@ -312,7 +306,14 @@
       <li><a href="#gene-ontology">gene ontology</a></li>
     </ul>
   </li>
-  <li><a href="#epigenetics-in-r">Epigenetics (in R)</a>
+  <li><a href="#data-analysis">Data analysis</a>
+    <ul>
+      <li><a href="#rcompanion">rcompanion</a></li>
+      <li><a href="#snakemake">snakemake</a></li>
+      <li><a href="#workflowr">workflowr</a></li>
+    </ul>
+  </li>
+  <li><a href="#epigenetics">Epigenetics</a>
     <ul>
       <li><a href="#software">software</a></li>
       <li><a href="#references">references</a></li>
@@ -329,6 +330,12 @@
       <li><a href="#minimpy">minimpy</a></li>
     </ul>
   </li>
+  <li><a href="#scientific-writing">Scientific writing</a>
+    <ul>
+      <li><a href="#rrtools">rrtools</a></li>
+      <li><a href="#rticles">rticles</a></li>
+    </ul>
+  </li>
 </ul>
             </nav>
           </aside>
@@ -336,19 +343,6 @@
         <p style="font-size:15px" align="justify">
 Platforms and software for data science &amp; research.<br />
 (ongoing compilation; in alphabetical order)
-</p>
-
-<h2 id="data-analysis-general">Data analysis (general)</h2>
-<h3 id="snakemake">snakemake</h3>
-<p style="font-size:15px" align="justify">
-<em>"The Snakemake workflow management system is a tool to create reproducible and scalable data analyses. Workflows are described via a human readable, Python based language. They can be seamlessly scaled to server, cluster, grid and cloud environments, without the need to modify the workflow definition. Finally, Snakemake workflows can entail a description of required software, which will be automatically deployed to any execution environment."</em> (taken from official  website)
-<br /><a href="https://snakemake.readthedocs.io/en/stable/">snakemake</a>
-</p>
-
-<h3 id="workflowr">workflowr</h3>
-<p style="font-size:15px" align="justify">
-<em>"The workflowr R package helps researchers organize their analyses in a way that promotes effective project management, reproducibility, collaboration, and sharing of results. Workflowr combines literate programming (knitr and rmarkdown) and version control (Git, via git2r) to generate a website containing time-stamped, versioned, and documented results. Any R user can quickly and easily adopt workflowr."</em> (taken from official  website)
-<br /><a href="https://jdblischak.github.io/workflowr/">workflowr</a>
 </p>
 
 <h2 id="bioinformatics">Bioinformatics</h2>
@@ -379,21 +373,40 @@ Gene ontology terms are used to standardize and facilitate a common language in 
 <br /><a href="https://david.ncifcrf.gov/">DAVID</a>
 </p>
 
-<h2 id="epigenetics-in-r">Epigenetics (in R)</h2>
+<h2 id="data-analysis">Data analysis</h2>
+<h3 id="rcompanion">rcompanion</h3>
+<p style="font-size:15px" align="justify">
+A whole bunch of things for R and Data Analysis
+<br /><a href="https://rcompanion.org/handbook/">rcompanion</a>
+</p>
+
+<h3 id="snakemake">snakemake</h3>
+<p style="font-size:15px" align="justify">
+<em>"The Snakemake workflow management system is a tool to create reproducible and scalable data analyses. Workflows are described via a human readable, Python based language. They can be seamlessly scaled to server, cluster, grid and cloud environments, without the need to modify the workflow definition. Finally, Snakemake workflows can entail a description of required software, which will be automatically deployed to any execution environment."</em> (taken from official  website)
+<br /><a href="https://snakemake.readthedocs.io/en/stable/">snakemake</a>
+</p>
+
+<h3 id="workflowr">workflowr</h3>
+<p style="font-size:15px" align="justify">
+<em>"The workflowr R package helps researchers organize their analyses in a way that promotes effective project management, reproducibility, collaboration, and sharing of results. Workflowr combines literate programming (knitr and rmarkdown) and version control (Git, via git2r) to generate a website containing time-stamped, versioned, and documented results. Any R user can quickly and easily adopt workflowr."</em> (taken from official  website)
+<br /><a href="https://jdblischak.github.io/workflowr/">workflowr</a>
+</p>
+
+<h2 id="epigenetics">Epigenetics</h2>
 <h3 id="software">software</h3>
 <p style="font-size:15px" align="justify">
-<a href="https://bioconductor.org/">Bioconductor</a> has a comprehensive list of packages related to epigenetic data analysis. <a href="https://bioconductor.org/help/search/index.html?q=epigenetics/">See search results.</a> Main examples:
-<br /><a href="https://pubmed.ncbi.nlm.nih.gov/24478339/">minfi</a>
-<br /><a href="https://academic.oup.com/nar/article/43/7/e47/2414268">limma</a>
-<br /><a href="https://academic.oup.com/bioinformatics/article/34/23/3983/5042224">meffil</a>
-<br /><a href="https://rnbeads.org/index.html">RnBeads</a>
-<br /><a href="https://academic.oup.com/bioinformatics/article/33/24/3982/4082274">ChAMP</a>
-<br /><a href="https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-2804-7">pwrEWAS</a>
+<a href="https://bioconductor.org/">Bioconductor</a> has a comprehensive list of packages related to epigenetic data analysis. See search results in their database <a href="https://bioconductor.org/help/search/index.html?q=epigenetics/">here</a>. Main examples:
+<a href="https://pubmed.ncbi.nlm.nih.gov/24478339/">minfi</a>,
+<a href="https://academic.oup.com/nar/article/43/7/e47/2414268">limma</a>,
+<a href="https://academic.oup.com/bioinformatics/article/34/23/3983/5042224">meffil</a>,
+<a href="https://rnbeads.org/index.html">RnBeads</a>,
+<a href="https://academic.oup.com/bioinformatics/article/33/24/3982/4082274">ChAMP</a>,
+<a href="https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-2804-7">pwrEWAS</a>
 </p>
 
 <h3 id="references">references</h3>
 <p style="font-size:15px" align="justify">
-<a href="https://epigenie.com/epigenetic-tools-and-databases/">epigenie</a>
+Comprehensive information is gathered in <a href="https://epigenie.com/epigenetic-tools-and-databases/">epigenie</a>.
 </p>
 
 <h2 id="literature-search">Literature search</h2>
@@ -416,6 +429,19 @@ JAVA application used for parallel randomization of experimental designs. <em>"A
 <br /><a href="https://sourceforge.net/projects/minimpy/#">MinimPy</a>
 </p>
 
+<h2 id="scientific-writing">Scientific writing</h2>
+<h3 id="rrtools">rrtools</h3>
+<p style="font-size:15px" align="justify">
+Tools for writing reproducible research in R. <em>"The goal of rrtools is to provide instructions, templates, and functions for making a basic compendium suitable for writing a reproducible journal article or report with R. This package documents the key steps and provides convenient functions for quickly creating a new research compendium. The approach is based generally on Kitzes et al. (2017), and more specifically on Marwick (2017), Marwick et al. (2018), and Wickham’s (2017) work using the R package structure as the basis for a research compendium."</em> (taken from official website).
+<br /><a href="https://github.com/benmarwick/rrtools">rrtools</a>
+</p>
+
+<h3 id="rticles">rticles</h3>
+<p style="font-size:15px" align="justify">
+LaTeX-formatted templates for scientific articles to be written in R. <em>"The rticles package provides a suite of custom R Markdown LaTeX formats and templates for various formats. Most of the templates are provided and maintained by the community, and anyone can contribute a new template."</em> (taken from official website).
+<br /><a href="https://cran.r-project.org/web/packages/rticles/index.html">rticles</a>
+</p>
+
         
       </section>
 
@@ -434,11 +460,11 @@ JAVA application used for parallel randomization of experimental designs. <em>"A
     <h4 class="page__share-title">Share on</h4>
   
 
-  <a href="https://twitter.com/intent/tweet?text=Tools%20http%3A%2F%2Flocalhost%3A4000%2F04_tools%2F" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+  <a href="https://twitter.com/intent/tweet?text=Tools%20https%3A%2F%2Fsamuel-carleial.github.io%2F%2F04_tools%2F" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
 
-  <a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Flocalhost%3A4000%2F04_tools%2F" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fsamuel-carleial.github.io%2F%2F04_tools%2F" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
 
-  <a href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Flocalhost%3A4000%2F04_tools%2F" class="btn btn--linkedin" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fsamuel-carleial.github.io%2F%2F04_tools%2F" class="btn btn--linkedin" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
 </section>
 
 
@@ -501,7 +527,7 @@ JAVA application used for parallel randomization of experimental designs. <em>"A
   </ul>
 </div>
 
-<div class="page__footer-copyright">&copy; 2020 Samuel Carleial (Fernandes). Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+<div class="page__footer-copyright">&copy; 2021 Samuel Carleial (Fernandes). Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
 
       </footer>
     </div>

@@ -43,6 +43,12 @@ Gene ontology terms are used to standardize and facilitate a common language in 
 
 
 ## Data analysis
+### openBIS
+<p style="font-size:15px" align="justify">
+Laboratory notebook and inventory manager
+<br><a href="https://openbis.ch/">openBIS</a>
+</p>
+
 ### rcompanion
 <p style="font-size:15px" align="justify">
 A whole bunch of things for R and Data Analysis

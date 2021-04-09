@@ -111,7 +111,7 @@ analytics:
 author:
   name             : "Personal info"
   avatar           : "/assets/images/me.jpg"
-  bio              : "Biologist and Data Analyst"
+  bio              : "Research Scientist"
   location         : "Konstanz, Germany"
   links:
     - label: "E-mail"

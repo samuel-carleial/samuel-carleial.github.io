@@ -60,3 +60,4 @@ Knowledge is power. With the internet, we are lucky to have so much information 
 <a style="font-size:15px" href="https://simplystatistics.org/">Simply Statistics</a>
 <a style="font-size:15px" href="https://benwhalley.github.io/just-enough-r/">Just Enough R</a>
 <a style="font-size:15px" href="https://www.r-graph-gallery.com/index.html">The R Graph Gallery</a>
+<a style="font-size:15px" href="https://epirhandbook.com/">R for applied epidemiology and public health</a>

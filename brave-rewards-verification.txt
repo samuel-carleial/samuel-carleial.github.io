@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: samuel-carleial.github.io
+Token: 0e5a02e0b9d285ce90f4887ff8cb33d4b002294e66d5ef1ae24335a28086525b

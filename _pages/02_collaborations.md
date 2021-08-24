@@ -13,6 +13,12 @@ Life with corona is an online global survey led by Prof. Brück (ISDC/IGZ), whic
 <br><a href="https://lifewithcorona.org/">life with corona survey</a>
 </p>
 
+### NET Brasil (2018-now)
+<p style="font-size:15px" align="justify">
+Provision of Narrative Exposure Therapy within the public health system. It started as a pilot project in Rio de Janeiro, Brazil. The plan is to build capacity and scale-up the provision of evidence-based psychotherapy for victims of urban violence who currently visit public clinics in Rio. Violence and trauma-related mental disorders is one of the main problems that we want to tackle.
+<br><a href="https://www.netbrasil.org/">NET Brasil</a>
+</p>
+
 ### coronabr R package (2020)
 <p style="font-size:15px" align="justify">
 Transparency and scientific accuracy regarding the spread of corona worldwide is urgent, particularly in Brazil. This is an R package developed to download, visualize and analyze data concerning corona cases which are reported by official authorities.

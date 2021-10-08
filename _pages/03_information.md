@@ -1,7 +1,7 @@
 ---
-title: "Link suggestions"
+title: "Suggestions of information sources"
 layout: "single"
-permalink: "/03_inform_yourself/"
+permalink: "/03_information/"
 last_modified_at: 2020-12-21
 toc: true
 ---

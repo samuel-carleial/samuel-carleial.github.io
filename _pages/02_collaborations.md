@@ -2,10 +2,15 @@
 title: "My collaborations"
 layout: "single"
 permalink: "/02_collaborations/"
-last_modified_at: 2020-06-10
+last_modified_at: 2021-10-08
 toc: true
 ---
 
+
+### PsychArray and EPIC array analysis (2021)
+<p style="font-size:15px" align="justify">
+For the investigation of genetic (PsychArray) and epigenetic (EPIC, Illumina Inc.) data produced in the DRC Study (men cohort), I have collaborating with the Federal University of Rio de Janeiro (UFRJ), namely with Prof. Cynthia Cardoso and Prof. Frederico Hening. Dr. Átila Duque Rossi will take part in data analysis.
+</p>
 
 ### life with corona (2020-now)
 <p style="font-size:15px" align="justify">

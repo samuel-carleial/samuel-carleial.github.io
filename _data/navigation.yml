@@ -8,9 +8,9 @@ main:
     description: "My previous and current collaborations"
     url: "/02_collaborations/"
 
-  - title: "Inform yourself"
+  - title: "Information"
     description: "Suggested links for research, outreach and engagement"
-    url: "/03_inform_yourself/"
+    url: "/03_information/"
 
   - title: "Tools"
     description: "Need help with analysis? Contact me!"

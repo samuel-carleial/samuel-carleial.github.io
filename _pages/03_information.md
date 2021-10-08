@@ -12,7 +12,7 @@ Knowledge is power. With the internet, we are lucky to have so much information 
 </p>
 
 
-## General News
+## News (general)
 <a style="font-size:15px" href="https://www.currentaffairs.org/">Current Affairs;</a>
 <a style="font-size:15px" href="https://www.democracynow.org/">Democracy Now;</a>
 <a style="font-size:15px" href="https://elpais.com/">El País;</a>
@@ -28,20 +28,11 @@ Knowledge is power. With the internet, we are lucky to have so much information 
 <a style="font-size:15px" href="https://thegroundtruthproject.org/">The Groundtruth Project;</a>
 
 
-## Science & Research News
+## News (science & research)
 <a style="font-size:15px" href="https://www.nationalgeographic.com/science/">National Geographic;</a>
 <a style="font-size:15px" href="https://www.newscientist.com/">New Scientist;</a>
 <a style="font-size:15px" href="https://thefairjournal.com/">The Fair Journal;</a>
 <a style="font-size:15px" href="https://www.sciencedaily.com/">ScienceDaily;</a>
-
-
-## Job Portals
-<a style="font-size:15px" href="https://www.academics.de/">academics;</a>
-<a style="font-size:15px" href="https://www.diversityinresearch.careers/jobs/">Diversity in Research Jobs (Wiley & Sons Inc.);</a>
-<a style="font-size:15px" href="https://euraxess.ec.europa.eu/jobs/search/country/switzerland-1110?page=1">EURAXESS;</a>
-<a style="font-size:15px" href="https://www.vbio.de/">German Life Science Association (VBIO);</a>
-<a style="font-size:15px" href="https://www.nature.com/naturecareers">Nature careers;</a>
-<a style="font-size:15px" href="https://unjobs.org/">UNjobs;</a>
 
 
 ## Podcasts
@@ -74,7 +65,7 @@ Knowledge is power. With the internet, we are lucky to have so much information 
 <a style="font-size:15px" href="https://www.wyssfoundation.org/">Wyss foundation;</a>
 
 
-## Scientific Institutes
+## Scientific institutes
 <a style="font-size:15px" href="https://www.agroscope.admin.ch/agroscope/de/home.html">Agroscope;</a>
 <a style="font-size:15px" href="https://www.embl.org/">European Molecular Biology Laboratory (EMBL);</a>
 <a style="font-size:15px" href="https://ec.europa.eu/jrc/en">European Commission Science Hub;</a>
@@ -89,9 +80,18 @@ Knowledge is power. With the internet, we are lucky to have so much information 
 <a style="font-size:15px" href="https://www.wsl.ch/de/index.html">Eidgenössische Forschungsanstalt für Wald, Schnee und Landschaft (WSL);</a>
 
 
-## People & Blog
+## People and blogs
 <a style="font-size:15px" href="https://rafalab.github.io/">Irizarry lab;</a>
 <a style="font-size:15px" href="https://simplystatistics.org/">Simply Statistics;</a>
 <a style="font-size:15px" href="https://benwhalley.github.io/just-enough-r/">Just Enough R;</a>
 <a style="font-size:15px" href="https://www.r-graph-gallery.com/index.html">The R Graph Gallery;</a>
 <a style="font-size:15px" href="https://epirhandbook.com/">R for applied epidemiology and public health;</a>
+
+
+## Job portals
+<a style="font-size:15px" href="https://www.academics.de/">academics;</a>
+<a style="font-size:15px" href="https://www.diversityinresearch.careers/jobs/">Diversity in Research Jobs (Wiley & Sons Inc.);</a>
+<a style="font-size:15px" href="https://euraxess.ec.europa.eu/jobs/search/country/switzerland-1110?page=1">EURAXESS;</a>
+<a style="font-size:15px" href="https://www.vbio.de/">German Life Science Association (VBIO);</a>
+<a style="font-size:15px" href="https://www.nature.com/naturecareers">Nature careers;</a>
+<a style="font-size:15px" href="https://unjobs.org/">UNjobs;</a>

@@ -12,7 +12,7 @@ Compilation of platforms and software for data analysis and scientific research.
 (ongoing work)
 </p>
 
-#### Platforms & Environments
+#### Platforms & environments
 <p style="font-size:15px" align="justify">
 These tools help gather several programs and/or major packages into one single pot; some are web-based. IDEs are good alternatives that combine a user-interface layout with powerful programs/programming languages.
 </p>
@@ -53,7 +53,7 @@ Gene ontology terms are used to standardize and facilitate a common language in 
 <br><a href="http://www.webgestalt.org">WebGestalt</a>: interactive web-tool that combine tools above
 </p>
 
-#### Software & Packages
+#### Software & packages
 ##### Management
 openBIS
 <p style="font-size:15px" align="justify">

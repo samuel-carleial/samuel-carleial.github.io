@@ -142,16 +142,8 @@ author:
 footer:
   links:
     - label: ""
-      icon: "fas fa-user"
-      url: "http://lattes.cnpq.br/0951249566440652"
-
-    - label: ""
       icon: "fab fa-fw fa-github"
       url: "https://github.com/samuel-carleial"
-
-    - label: ""
-      icon: "fab fa-fw fa-google"
-      url: "https://scholar.google.de/citations?user=cmQhvlEAAAAJ&hl=en"
 
     - label: ""
       icon: "fab fa-fw fa-linkedin"
@@ -160,6 +152,14 @@ footer:
     - label: ""
       icon: "fab fa-fw fa-researchgate"
       url: "https://www.researchgate.net/profile/Samuel_Carleial"
+
+    - label: ""
+      icon: "fab fa-fw fa-google"
+      url: "https://scholar.google.de/citations?user=cmQhvlEAAAAJ&hl=en"
+
+    - label: ""
+      icon: "fas fa-user"
+      url: "http://lattes.cnpq.br/0951249566440652"
 
 # Reading Files
 include:

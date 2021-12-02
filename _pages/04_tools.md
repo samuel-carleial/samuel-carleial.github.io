@@ -12,18 +12,6 @@ Compilation of platforms and software for data analysis and scientific research.
 (ongoing work)
 </p>
 
-#### Platforms & environments
-<p style="font-size:15px" align="justify">
-These tools help gather several programs and/or major packages into one single pot; some are web-based. IDEs are good alternatives that combine a user-interface layout with powerful programs/programming languages.
-</p>
-
-General
-<br><a style="font-size:15px" href="https://www.anaconda.com/">Anaconda</a>
-<br><a style="font-size:15px" href="https://jupyter.org/">Jupyter Notebook</a>
-
-R
-<br><a style="font-size:15px" href="https://www.rstudio.com/">RStudio</a>
-<br><a style="font-size:15px" href="https://rcompanion.org/handbook/">rcompanion: a whole bunch of things for R and data analysis</a>
 
 #### Bioinformatics
 galaxy.org
@@ -53,22 +41,10 @@ Gene ontology terms are used to standardize and facilitate a common language in 
 <br><a href="http://www.webgestalt.org">WebGestalt</a>: interactive web-tool that combine tools above
 </p>
 
-#### Software & packages
-##### Management
-openBIS
+#### Computer science & co (CS, DA, DS)
+galaxy.org
 <p style="font-size:15px" align="justify">
-Laboratory notebook and inventory manager. It help organize all sorts of information about experimental studies, particularly focused on laboratory studies. <a href="https://openbis.ch/">openBIS</a>
-</p>
-
-##### Workflows
-snakemake
-<p style="font-size:15px" align="justify">
-<em>"The Snakemake workflow management system is a tool to create reproducible and scalable data analyses. Workflows are described via a human readable, Python based language. They can be seamlessly scaled to server, cluster, grid and cloud environments, without the need to modify the workflow definition. Finally, Snakemake workflows can entail a description of required software, which will be automatically deployed to any execution environment."</em> (taken from official  website) <a href="https://snakemake.readthedocs.io/en/stable/">snakemake</a>
-</p>
-
-workflowr
-<p style="font-size:15px" align="justify">
-<em>"The workflowr R package helps researchers organize their analyses in a way that promotes effective project management, reproducibility, collaboration, and sharing of results. Workflowr combines literate programming (knitr and rmarkdown) and version control (Git, via git2r) to generate a website containing time-stamped, versioned, and documented results. Any R user can quickly and easily adopt workflowr."</em> (taken from official  website) <a href="https://jdblischak.github.io/workflowr/">workflowr</a>
+<em>"If you’re a self-taught engineer or bootcamp grad, you owe it to yourself to learn computer science. Thankfully, you can give yourself a world-class CS education without investing years and a small fortune in a degree program."</em> (taken from official  website) <a href="https://teachyourselfcs.com/">Teach yourself computer science</a>
 </p>
 
 #### Epigenetics
@@ -99,6 +75,30 @@ doc<em>ear</em>
 This is a neat tool for mind mapping and organization. <em>Docear is a unique solution to academic literature management, i.e. it helps you organizing, creating, and discovering academic literature.</em> (taken from official  website) <a href="https://docear.com/">Doc<em>ear</em></a>
 </p>
 
+#### Platforms & environments
+<p style="font-size:15px" align="justify">
+These tools help gather several programs and/or major packages into one single pot; some are web-based. IDEs are good alternatives that combine a user-interface layout with powerful programs/programming languages.
+</p>
+
+General
+<br><a style="font-size:15px" href="https://www.anaconda.com/">Anaconda</a>
+<br><a style="font-size:15px" href="https://jupyter.org/">Jupyter Notebook</a>
+
+R
+<br><a style="font-size:15px" href="https://www.rstudio.com/">RStudio</a>
+<br><a style="font-size:15px" href="https://rcompanion.org/handbook/">rcompanion: a whole bunch of things for R and data analysis</a>
+
+#### Randomization
+minimpy
+<p style="font-size:15px" align="justify">
+JAVA application used for parallel randomization of experimental designs. <em>"A desktop application program for sequential allocation of subjects to treatment groups in clinical trials by using the method of minimization"</em> (taken from official website). <a href="https://sourceforge.net/projects/minimpy/#">MinimPy</a>
+</p>
+
+R packages
+<p style="font-size:15px" align="justify">
+See <a href="https://cran.r-project.org/web/packages/randomizeR/index.html">randomizeR</a> and <a href="https://cran.r-project.org/web/packages/randomizr/">randomizr</a>
+</p>
+
 #### Scientific writing
 rrtools
 <p style="font-size:15px" align="justify">
@@ -110,13 +110,20 @@ rticles
 LaTeX-formatted templates for scientific articles to be written in R. <em>"The rticles package provides a suite of custom R Markdown LaTeX formats and templates for various formats. Most of the templates are provided and maintained by the community, and anyone can contribute a new template."</em> (taken from official website). <a href="https://cran.r-project.org/web/packages/rticles/index.html">rticles</a>
 </p>
 
-#### Randomization
-minimpy
+#### Software & packages
+##### Management
+openBIS
 <p style="font-size:15px" align="justify">
-JAVA application used for parallel randomization of experimental designs. <em>"A desktop application program for sequential allocation of subjects to treatment groups in clinical trials by using the method of minimization"</em> (taken from official website). <a href="https://sourceforge.net/projects/minimpy/#">MinimPy</a>
+Laboratory notebook and inventory manager. It help organize all sorts of information about experimental studies, particularly focused on laboratory studies. <a href="https://openbis.ch/">openBIS</a>
 </p>
 
-R packages
+##### Workflows
+snakemake
 <p style="font-size:15px" align="justify">
-See <a href="https://cran.r-project.org/web/packages/randomizeR/index.html">randomizeR</a> and <a href="https://cran.r-project.org/web/packages/randomizr/">randomizr</a>
+<em>"The Snakemake workflow management system is a tool to create reproducible and scalable data analyses. Workflows are described via a human readable, Python based language. They can be seamlessly scaled to server, cluster, grid and cloud environments, without the need to modify the workflow definition. Finally, Snakemake workflows can entail a description of required software, which will be automatically deployed to any execution environment."</em> (taken from official  website) <a href="https://snakemake.readthedocs.io/en/stable/">snakemake</a>
+</p>
+
+workflowr
+<p style="font-size:15px" align="justify">
+<em>"The workflowr R package helps researchers organize their analyses in a way that promotes effective project management, reproducibility, collaboration, and sharing of results. Workflowr combines literate programming (knitr and rmarkdown) and version control (Git, via git2r) to generate a website containing time-stamped, versioned, and documented results. Any R user can quickly and easily adopt workflowr."</em> (taken from official  website) <a href="https://jdblischak.github.io/workflowr/">workflowr</a>
 </p>

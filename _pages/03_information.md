@@ -2,12 +2,13 @@
 title: "Suggestions of information sources"
 layout: "single"
 permalink: "/03_information/"
-last_modified_at: 2021-10-08
+last_modified_at: 2021-12-02
 toc: true
 ---
 
+
 <p style="font-size:15px" align="justify">
-Knowledge is power. With the internet, we are lucky to have so much information available in a matter of a few clicks. Unfortunately, there is a lot of junk or even deceiving information in the internet as well. Therefore, I here enlist a non-exhaustive collection of websites that may lead you to the light side of the force.
+Knowledge is power. With the internet, we are lucky to have a great amount of information available in a matter of a few clicks. However, there is also a lot of junk or even deceiving information in the internet as well. Here, I list a non-exhaustive collection of websites that may lead you to the light side of the force. 💡
 </p>
 
 ## News (general)

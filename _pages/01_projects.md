@@ -2,13 +2,13 @@
 title: "Projects"
 layout: "single"
 permalink: "/01_projects/"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-12-02
 toc: true
 ---
 
 
 <p style="font-size:15px" align="justify">
-List of current or past projects.
+List of current or past projects. 📚
 </p>
 
 ### DNA methylation marks associated with mental disorders in traumatized male former child soldiers from DR Congo could reveal the epigenetic underpinnings of longitudinal psychotherapy effectiveness (2021)
@@ -16,12 +16,12 @@ List of current or past projects.
 I was granted funding (ca. 100k €) for the analysis of epigenetic data in a cohort of traumatized male clients that took part in the clinical trial, first reported by our team in 2019. This project plans to analyze saliva samples for DNA methylation using the EPIC BeadChip Array, together with the genotyping PsychArray (Core Exome) technique. With this project I aim at further understanding the relationship between epigenetics and mental health and trauma.
 </p>
 
-### Epigenetics of mental disorders (2019-now)
+### Epigenetics of mental disorders (2019...)
 <p style="font-size:15px" align="justify">
 I am involved in various international studies that had collected data on epigenetics in association with psychological measures (particularly trauma related mental disorders). I am building and maintaining a database of epigenetic data related to those studies at the University of Konstanz. My tasks are to centralize, integrate and manage the data of over 10 studies in 8 countries in Africa and Latin America. The abovementioned studies measured violence and psychological outcomes, such as depression, aggression and PTSD which can be related to epigenetic modifications, particularly DNA methylation. Lately, I was granted funding (2021) to analyze a male dataset of violence perpetrators from DRC.
 </p>
 
-### Narrative Exposure Therapy effectiveness (2017-now)
+### Narrative Exposure Therapy effectiveness (2017...)
 <p style="font-size:15px" align="justify">
 The main line of research in the research group I work of Prof. Thomas Elbert focus on the development and evaluation of NET. Clinical studies have been conducted in different contexts and with different populations in that purpose. NET is a well-established psychotherapy that deals with trauma-related mental disorders. Much research, however, is still needed to test several aspects, such as the possibility of scaling NET or the identification of epigenetic biomarkers associated with NET. My main contributions have been to the following projects:
 <ul>

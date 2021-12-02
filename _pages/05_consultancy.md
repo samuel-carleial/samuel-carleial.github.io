@@ -19,5 +19,5 @@ Depending on my time and skills, I can provide you help with:
 </p>
 
 <p style="font-size:15px" align="justify">
-Send your inquiry, explaining your case 👉🏽👉🏽<a href= "mailto:samuel.carleial@gmail.com">e-mail Samuel</a>👈🏽👈🏽
+Send me an inquiry explaining your case 👉🏽👉🏽 <a href= "mailto:samuel.carleial@gmail.com">e-mail Samuel</a> 👈🏽👈🏽
 </p>

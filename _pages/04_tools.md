@@ -2,14 +2,13 @@
 title: "Tools"
 layout: "single"
 permalink: "/04_tools/"
-last_modified_at: 2021-04-09
+last_modified_at: 2021-12-02
 toc: true
 ---
 
 
 <p style="font-size:15px" align="justify">
-Compilation of platforms and software for data analysis and scientific research.<br>
-(ongoing work)
+Compilation of platforms, programs and software for data analysis and scientific research. 🛠
 </p>
 
 
@@ -41,7 +40,7 @@ Gene ontology terms are used to standardize and facilitate a common language in 
 <br><a href="http://www.webgestalt.org">WebGestalt</a>: interactive web-tool that combine tools above
 </p>
 
-#### Computer science & co (CS, DA, DS)
+#### Computer Science & co
 galaxy.org
 <p style="font-size:15px" align="justify">
 <em>"If you’re a self-taught engineer or bootcamp grad, you owe it to yourself to learn computer science. Thankfully, you can give yourself a world-class CS education without investing years and a small fortune in a degree program."</em> (taken from official  website) <a href="https://teachyourselfcs.com/">Teach yourself computer science</a>
@@ -64,7 +63,7 @@ galaxy.org
 Comprehensive information is gathered in <a href="https://epigenie.com/epigenetic-tools-and-databases/">epigenie</a>.
 </p>
 
-#### Literature search
+#### Literature Search
 connected papers
 <p style="font-size:15px" align="justify">
 Give a specific paper and see what it comes out of it in terms of publication citations and connections between papers. Appealing visual and intuitive tool for literature reviews. <a href="https://www.connectedpapers.com/">Connected Papers</a>
@@ -75,7 +74,7 @@ doc<em>ear</em>
 This is a neat tool for mind mapping and organization. <em>Docear is a unique solution to academic literature management, i.e. it helps you organizing, creating, and discovering academic literature.</em> (taken from official  website) <a href="https://docear.com/">Doc<em>ear</em></a>
 </p>
 
-#### Platforms & environments
+#### Platforms & Environments
 <p style="font-size:15px" align="justify">
 These tools help gather several programs and/or major packages into one single pot; some are web-based. IDEs are good alternatives that combine a user-interface layout with powerful programs/programming languages.
 </p>
@@ -99,7 +98,7 @@ R packages
 See <a href="https://cran.r-project.org/web/packages/randomizeR/index.html">randomizeR</a> and <a href="https://cran.r-project.org/web/packages/randomizr/">randomizr</a>
 </p>
 
-#### Scientific writing
+#### Scientific Writing
 rrtools
 <p style="font-size:15px" align="justify">
 Tools for writing reproducible research in R. <em>"The goal of rrtools is to provide instructions, templates, and functions for making a basic compendium suitable for writing a reproducible journal article or report with R. This package documents the key steps and provides convenient functions for quickly creating a new research compendium. The approach is based generally on Kitzes et al. (2017), and more specifically on Marwick (2017), Marwick et al. (2018), and Wickham’s (2017) work using the R package structure as the basis for a research compendium."</em> (taken from official website). <a href="https://github.com/benmarwick/rrtools">rrtools</a>
@@ -110,14 +109,14 @@ rticles
 LaTeX-formatted templates for scientific articles to be written in R. <em>"The rticles package provides a suite of custom R Markdown LaTeX formats and templates for various formats. Most of the templates are provided and maintained by the community, and anyone can contribute a new template."</em> (taken from official website). <a href="https://cran.r-project.org/web/packages/rticles/index.html">rticles</a>
 </p>
 
-#### Software & packages
-##### Management
+#### Software & Packages
+##### management
 openBIS
 <p style="font-size:15px" align="justify">
 Laboratory notebook and inventory manager. It help organize all sorts of information about experimental studies, particularly focused on laboratory studies. <a href="https://openbis.ch/">openBIS</a>
 </p>
 
-##### Workflows
+##### workflows
 snakemake
 <p style="font-size:15px" align="justify">
 <em>"The Snakemake workflow management system is a tool to create reproducible and scalable data analyses. Workflows are described via a human readable, Python based language. They can be seamlessly scaled to server, cluster, grid and cloud environments, without the need to modify the workflow definition. Finally, Snakemake workflows can entail a description of required software, which will be automatically deployed to any execution environment."</em> (taken from official  website) <a href="https://snakemake.readthedocs.io/en/stable/">snakemake</a>

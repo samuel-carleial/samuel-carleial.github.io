@@ -35,6 +35,10 @@ Knowledge is power. With the internet, we are lucky to have a great amount of in
 <a style="font-size:15px" href="https://www.sciencedaily.com/">ScienceDaily;</a>
 <a style="font-size:15px" href="https://thefairjournal.com/">The Fair Journal;</a>
 
+## Articles (science & research)
+
+<a style="font-size:15px" href="https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/">The scientific paper is obsolete;</a>
+
 ## Podcasts
 
 <a style="font-size:15px" href="https://piaui.folha.uol.com.br/radio-piaui/terra-e-redonda/">A Terra é Redonda (Revista Piauí);</a>

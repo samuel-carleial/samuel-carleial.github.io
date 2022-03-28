@@ -40,6 +40,12 @@ Gene ontology terms are used to standardize and facilitate a common language in 
 <br><a href="http://www.webgestalt.org">WebGestalt</a>: interactive web-tool that combine tools above
 </p>
 
+#### Data Analysis
+Data Visualization
+<p style="font-size:15px" align="justify">
+<em>"Free book from 2013 with very detailed information about data datavis."</em><a href="https://cs.brown.edu/people/rtamassi/gdhandbook/">Handbook of Graph Drawing and Visualization</a>
+</p>
+
 #### Computer Science & co
 galaxy.org
 <p style="font-size:15px" align="justify">

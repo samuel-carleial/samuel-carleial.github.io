@@ -8,7 +8,7 @@ toc: true
 
 
 <p style="font-size:15px" align="justify">
-Compilation of platforms, programs and software for data analysis and scientific research. 🛠
+Science and research are very dependent on computers to do their job nowadays. Abundant types of software exist out there that can help us doing data analysis, processing information and much else. Here is a short list of programs for a few topics in science. 🛠
 </p>
 
 
@@ -43,7 +43,7 @@ Gene ontology terms are used to standardize and facilitate a common language in 
 #### Data Analysis
 Data Visualization
 <p style="font-size:15px" align="justify">
-<em>"Free book from 2013 with very detailed information about data datavis."</em><a href="https://cs.brown.edu/people/rtamassi/gdhandbook/">Handbook of Graph Drawing and Visualization</a>
+<em>"Free book from 2013 with very detailed information about data datavis."</em><a href="https://cs.brown.edu/people/rtamassi/gdhandbook/"> Handbook of Graph Drawing and Visualization</a>
 </p>
 
 #### Computer Science & co
@@ -88,6 +88,7 @@ These tools help gather several programs and/or major packages into one single p
 General
 <br><a style="font-size:15px" href="https://www.anaconda.com/">Anaconda</a>
 <br><a style="font-size:15px" href="https://jupyter.org/">Jupyter Notebook</a>
+<br><a style="font-size:15px" href="https://orangedatamining.com/">Orange</a>
 
 R
 <br><a style="font-size:15px" href="https://www.rstudio.com/">RStudio</a>

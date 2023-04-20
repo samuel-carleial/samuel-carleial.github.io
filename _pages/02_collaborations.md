@@ -8,7 +8,7 @@ toc: true
 
 
 <p style="font-size:15px" align="justify">
-List of current or past collaborations. 🤝
+List of current or previous collaborations. 🤝
 </p>
 
 ### Multiomics analysis (2021...)

@@ -1,5 +1,5 @@
 ---
-title: "Projects"
+title: "My projects"
 layout: "single"
 permalink: "/01_projects/"
 last_modified_at: 2021-12-02
@@ -8,7 +8,7 @@ toc: true
 
 
 <p style="font-size:15px" align="justify">
-List of current or past projects. 📚
+List of current or previous projects. 📚
 </p>
 
 ### DNA methylation marks associated with mental disorders in traumatized male former child soldiers from DR Congo could reveal the epigenetic underpinnings of longitudinal psychotherapy effectiveness (2021)

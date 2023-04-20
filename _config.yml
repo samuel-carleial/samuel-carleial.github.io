@@ -23,7 +23,7 @@ parallel_localization    : false
 title                    : "Samuel Carleial Fernandes"
 title_separator          : " "
 name                     : "Samuel Carleial Fernandes"
-description              : "This website gathers all relevant information about my professional career. Here, I share my professional background and current working situation, together with my publications, projects and future work ideas."
+description              : "This site gathers all relevant information about my professional career. Here, I share my professional background and current working situation, together with my publications, projects and future work ideas."
 url                      : "https://samuel-carleial.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "samuel-carleial/samuel-carleial.github.io"
@@ -111,12 +111,11 @@ analytics:
 author:
   name             : "About me"
   avatar           : "/assets/images/me.jpg"
-  bio              : "Research Scientist"
-  location         : "Konstanz, Germany"
+  bio              : "Researcher | Scientist"
   links:
-    - label: "E-mail"
+    - label: "e-mail"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:samuel.carleial@uni-konstanz.de"
+      url: "mailto:samuel.carleial.fernandes@protonmail.com"
 
     - label: "GitHub"
       icon: "fab fa-fw fa-github"

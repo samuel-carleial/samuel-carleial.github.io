@@ -13,9 +13,9 @@ main:
     url: "/03_information/"
 
   - title: "Tools"
-    description: "Need help with analysis? Contact me!"
+    description: "Suggestion of software for research"
     url: "/04_tools/"
 
-  - title: "Consultancy"
-    description: "Need help with analysis? Contact me!"
-    url: "/05_consultancy/"
+  - title: "Help"
+    description: "Need help? Contact me!"
+    url: "/05_help/"

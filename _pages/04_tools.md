@@ -133,3 +133,14 @@ workflowr
 <p style="font-size:15px" align="justify">
 <em>"The workflowr R package helps researchers organize their analyses in a way that promotes effective project management, reproducibility, collaboration, and sharing of results. Workflowr combines literate programming (knitr and rmarkdown) and version control (Git, via git2r) to generate a website containing time-stamped, versioned, and documented results. Any R user can quickly and easily adopt workflowr."</em> (taken from official  website) <a href="https://jdblischak.github.io/workflowr/">workflowr</a>
 </p>
+
+#### Text editors
+Atom (discontinued)
+<p style="font-size:15px" align="justify">
+<em>"Free and open source text editor, brought to you by GitHub."</em> (taken from official  website) <a href="https://atom-editor.cc/">Atom</a>
+</p>
+
+Emacs
+<p style="font-size:15px" align="justify">
+<em>"An extensible, customizable, free/libre text editor — and more."</em> (taken from official  website) <a href="https://www.gnu.org/software/emacs/">Emacs</a>
+</p>

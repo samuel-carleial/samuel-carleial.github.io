@@ -52,11 +52,12 @@ Knowledge is power. With the internet, we are lucky to have a great amount of in
 <a style="font-size:15px" href="https://www.radionovelo.com.br/">Rádio Novelo |</a>
 <a style="font-size:15px" href="https://fm4.orf.at/">Radio FM4 |</a>
 
-## Engagement (NGOs)
+## Engagement (Foundations, NGOs, etc.)
 
 <a style="font-size:15px" href="https://www.amnesty.org/en/">amnesty international |</a>
 <a style="font-size:15px" href="https://www.biovision.ch/en">biovision |</a>
 <a style="font-size:15px" href="https://www.euronatur.org/">EuroNatur |</a>
+<a style="font-size:15px" href="https://www.gapminder.org/">Gapminder |</a>
 <a style="font-size:15px" href="https://www.greenpeace.org/global/">greenpeace |</a>
 <a style="font-size:15px" href="https://www.helvetas.org/helvetas.de/en">helvetas |</a>
 <a style="font-size:15px" href="https://council.science/">international science council |</a>

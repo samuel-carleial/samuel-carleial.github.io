@@ -1,5 +1,5 @@
 ---
-title: "My suggestions of information sources"
+title: "Information sources"
 layout: "single"
 permalink: "/03_information/"
 last_modified_at: 2023-04-20

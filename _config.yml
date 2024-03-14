@@ -111,9 +111,9 @@ analytics:
 author:
   name             : "About me"
   avatar           : "/assets/images/me.jpg"
-  bio              : "Researcher | Scientist"
+  bio              : "Biologist | Data Analyst | Researcher"
   links:
-    - label: "e-mail"
+    - label: "E-mail"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:samuel.carleial.fernandes@protonmail.com"
 
@@ -137,6 +137,10 @@ author:
       icon: "fas fa-user"
       url: "http://lattes.cnpq.br/0951249566440652"
 
+    - label: "Curriculum Vitae"
+      icon: "fas fa-user"
+      url: "https://github.com/samuel-carleial/samuel-carleial.github.io/blob/master/assets/documents/cv_carleial_2023.pdf"
+
 # Site Footer
 footer:
   links:
@@ -151,14 +155,6 @@ footer:
     - label: ""
       icon: "fab fa-fw fa-researchgate"
       url: "https://www.researchgate.net/profile/Samuel_Carleial"
-
-    - label: ""
-      icon: "fab fa-fw fa-google"
-      url: "https://scholar.google.de/citations?user=cmQhvlEAAAAJ&hl=en"
-
-    - label: ""
-      icon: "fas fa-user"
-      url: "http://lattes.cnpq.br/0951249566440652"
 
 # Reading Files
 include:
@@ -289,5 +285,5 @@ defaults:
       type: pages
     values:
       layout: single
-      share: true
+      share: false
       author_profile: true

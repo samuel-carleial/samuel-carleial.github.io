@@ -9,13 +9,13 @@ main:
     url: "/02_collaborations/"
 
   - title: "Information"
-    description: "Suggested links for research, outreach and engagement"
+    description: "Suggested links about different topics"
     url: "/03_information/"
 
   - title: "Tools"
-    description: "Suggestion of software for research"
+    description: "Suggestion of different software"
     url: "/04_tools/"
 
-  - title: "Help"
-    description: "Need help? Contact me!"
-    url: "/05_help/"
+  - title: "Consultancy"
+    description: "Support on your project"
+    url: "/05_consultancy/"

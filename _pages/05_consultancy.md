@@ -1,7 +1,7 @@
 ---
-title: "Do you need help?"
+title: "Project support"
 layout: "single"
-permalink: "/05_help/"
+permalink: "/05_consultancy/"
 toc: false
 ---
 

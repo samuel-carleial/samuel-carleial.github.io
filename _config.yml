@@ -133,6 +133,10 @@ author:
       icon: "fab fa-fw fa-google"
       url: "https://scholar.google.de/citations?user=cmQhvlEAAAAJ&hl=en"
 
+    - label: "Certificates"
+      icon: "fas fa-file"
+      url: "https://github.com/samuel-carleial/samuel-carleial.github.io/blob/master/assets/certificates/"
+
     - label: "Currículo Lattes"
       icon: "fas fa-user"
       url: "http://lattes.cnpq.br/0951249566440652"

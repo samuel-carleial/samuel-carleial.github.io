@@ -16,6 +16,6 @@ main:
     description: "Suggestion of different software"
     url: "/04_tools/"
 
-  - title: "Consultancy"
-    description: "Support on your project"
-    url: "/05_consultancy/"
+  #- title: "Consultancy"
+  #  description: "Support on your project"
+  #  url: "/05_consultancy/"

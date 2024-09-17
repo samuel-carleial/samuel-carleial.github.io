@@ -11,6 +11,12 @@ toc: true
 List of current or previous projects. 📚
 </p>
 
+### Data science training projects (ongoing)
+<p style="font-size:15px" align="justify">
+A list of small projects collected after different trainings on data science: https://tinyurl.com/mr36uy7v 
+Overarching collection of information on data analysis: https://tinyurl.com/46p9ewrv
+</p>
+
 ### DNA methylation associated with mental disorders (2021)
 <p style="font-size:15px" align="justify">
 Analysis of epigenetic data in a cohort of traumatized male clients that took part in a clinical trial, first reported by our team in 2019. This project analyzed saliva samples for DNA methylation using the EPIC BeadChip Array, together with the genotyping PsychArray (Core Exome) technique. With this project I aimed at further understanding the relationship between epigenetics and mental health and trauma. Project was funded by Univ. of Konstanz and the Ministry of Science, Research and Arts in Baden-Württemberg (ca. 100k €).

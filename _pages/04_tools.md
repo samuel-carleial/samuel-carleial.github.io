@@ -51,11 +51,6 @@ Comprehensive information is gathered in <a href="https://epigenie.com/epigeneti
 </p>
 
 
-##### databases
-##### data analysis
-##### data visualization
-
-
 #### Science
 ##### randomization
 <p style="font-size:15px" align="justify">

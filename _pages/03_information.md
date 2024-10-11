@@ -117,6 +117,7 @@ Reprohack
 <a style="font-size:15px" href="https://www.edx.org/">EDX |</a>
 <a style="font-size:15px" href="https://www.hackerrank.com/">Hackerrank |</a>
 <a style="font-size:15px" href="https://cs.brown.edu/people/rtamassi/gdhandbook/">Handbook of Graph Drawing and Visualization |</a>
+<a style="font-size:15px" href="https://datavizcatalogue.com/index.html">The Data Visualization Catalogue |</a>
 <a style="font-size:15px" href="https://pll.harvard.edu/catalog">Harvard |</a>
 <a style="font-size:15px" href="https://tinyurl.com/mspya2ds">ex1 ★|</a>
 <a style="font-size:15px" href="https://tinyurl.com/3hkm3hdy">ex2 ★|</a>

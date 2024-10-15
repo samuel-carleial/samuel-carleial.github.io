@@ -1,24 +1,21 @@
 # main links
 main:
-  - title: "Curriculum"
-    description: "My CV"
-    url: "/01_cv/"
 
-  #- title: "Projects"
-  #  description: "My previous and current projects"
-  #  url: "/01_projects/"
+  - title: "Projects"
+    description: "My previous and current projects"
+    url: "/01_projects/"
 
-  #- title: "Collaborations"
-  #  description: "My previous and current collaborations"
-  #  url: "/02_collaborations/"
+  - title: "Collaborations"
+    description: "My previous and current collaborations"
+    url: "/02_collaborations/"
 
-  #- title: "Information"
-  #  description: "Suggested links about different topics"
-  #  url: "/03_information/"
+  - title: "Information"
+    description: "Suggested links about different topics"
+    url: "/03_information/"
 
-  #- title: "Tools"
-  #  description: "Suggestion of different software"
-  #  url: "/04_tools/"
+  - title: "Tools"
+    description: "Suggestion of different software"
+    url: "/04_tools/"
 
   #- title: "Consultancy"
   #  description: "Support on your project"

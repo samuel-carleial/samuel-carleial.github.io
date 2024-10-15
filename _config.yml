@@ -12,21 +12,21 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme             : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dark" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "default" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-languages                : ['en', 'pt-BR', 'es']
+languages                : ['en']
 default_lang             : 'en'
 exclude_from_localization: ['javascript', 'images', 'css']
 parallel_localization    : false
-title                    : "Samuel Carleial Fernandes"
+title                    : "Anke Köbach"
 title_separator          : " "
-name                     : "Samuel Carleial Fernandes"
-description              : "This site gathers all relevant information about my professional career. Here, I share my professional background and current working situation, together with my publications, projects and future work ideas."
-url                      : "https://samuel-carleial.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Samuel Carleial"
+description              : ""
+url                      : "https://anke-koebach.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "samuel-carleial/samuel-carleial.github.io"
+repository               : "anke-koebach/anke-koebach.github.io"
 teaser                   : #"/assets/images/teaser.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : #"/assets/images/logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -111,54 +111,54 @@ analytics:
 author:
   name             : "About me"
   avatar           : "/assets/images/me.jpg"
-  bio              : "Biologist | Data Analyst | Researcher"
+  bio              : "Psychologist | Researcher"
   links:
     - label: "E-mail"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:samuel.carleial.fernandes@protonmail.com"
+      url: "mailto:anke.koebach@uni-konstanz.de"
 
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/samuel-carleial"
+    #- label: "GitHub"
+    #  icon: "fab fa-fw fa-github"
+    #  url: "https://github.com/samuel-carleial"
 
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/samuel-carleial/"
+    #- label: "LinkedIn"
+    #  icon: "fab fa-fw fa-linkedin"
+    #  url: "https://www.linkedin.com/in/samuel-carleial/"
 
     - label: "ResearchGate"
       icon: "fab fa-fw fa-researchgate"
-      url: "https://www.researchgate.net/profile/Samuel_Carleial"
+      url: "https://www.researchgate.net/profile/Anke-Koebach"
 
     - label: "Google Scholar"
       icon: "fab fa-fw fa-google"
-      url: "https://scholar.google.de/citations?user=cmQhvlEAAAAJ&hl=en"
+      url: "https://scholar.google.com/citations?user=JIMYhYgAAAAJ"
 
-    - label: "Certificates"
-      icon: "fas fa-file"
-      url: "https://github.com/samuel-carleial/samuel-carleial.github.io/blob/master/assets/certificates/"
+    #- label: "Certificates"
+    #  icon: "fas fa-file"
+    #  url: "https://github.com/samuel-carleial/samuel-carleial.github.io/blob/master/assets/certificates/"
 
-    - label: "Currículo Lattes"
-      icon: "fas fa-user"
-      url: "http://lattes.cnpq.br/0951249566440652"
+    #- label: "Currículo Lattes"
+    #  icon: "fas fa-user"
+    #  url: "http://lattes.cnpq.br/0951249566440652"
 
-    - label: "Curriculum Vitae"
-      icon: "fas fa-user"
-      url: "https://github.com/samuel-carleial/samuel-carleial.github.io/blob/master/assets/documents/cv_carleial_2024.pdf"
+    #- label: "Curriculum Vitae"
+    #  icon: "fas fa-user"
+    #  url: "https://github.com/samuel-carleial/samuel-carleial.github.io/blob/master/assets/documents/cv_carleial_2024.pdf"
 
 # Site Footer
 footer:
   links:
-    - label: ""
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/samuel-carleial"
+    #- label: ""
+    #  icon: "fab fa-fw fa-github"
+    #  url: "https://github.com/samuel-carleial"
 
-    - label: ""
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/samuel-carleial/"
+    #- label: ""
+    #  icon: "fab fa-fw fa-linkedin"
+    #  url: "https://www.linkedin.com/in/samuel-carleial/"
 
     - label: ""
       icon: "fab fa-fw fa-researchgate"
-      url: "https://www.researchgate.net/profile/Samuel_Carleial"
+      url: "https://www.researchgate.net/profile/Anke-Koebach"
 
 # Reading Files
 include:

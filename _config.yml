@@ -20,9 +20,9 @@ languages                : ['en']
 default_lang             : 'en'
 exclude_from_localization: ['javascript', 'images', 'css']
 parallel_localization    : false
-title                    : "Samuel Carleial"
+title                    : "Samuel Carleial Fernandes"
 title_separator          : " "
-name                     : "Samuel Carleial"
+name                     : "Samuel Carleial Fernandes"
 description              : ""
 url                      : "https://samuel-carleial.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -110,7 +110,7 @@ analytics:
 author:
   name             : "About me"
   avatar           : "/assets/images/me.jpg"
-  bio              : "Data enthusiast | Ex Researcher"
+  bio              : "Data enthusiast | Researcher"
   links:
     - label: "E-mail"
       icon: "fas fa-fw fa-envelope-square"

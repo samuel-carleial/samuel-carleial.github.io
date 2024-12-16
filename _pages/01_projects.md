@@ -14,7 +14,7 @@ List of current or previous projects. 📚
 ### Open-source software (2024-...)
 <p style="font-size:15px" align="justify">
 To support open-source, I started to support voluntarily:
-<ul>
+<ul style="font-size:15px" align="justify">
   <li>rOpenSci, by doing translations to Portuguese-BR;</li>
   <li>libreoffice, by helping with bugfixing;</li>
 </ul>
@@ -22,7 +22,7 @@ To support open-source, I started to support voluntarily:
 
 ### Data science training projects (ongoing)
 <p style="font-size:15px" align="justify">
-A list of small projects collected after different trainings on data science: <a href="https://tinyurl.com/mr36uy7v">link</a>. Overarching collection of information on data analysis: <a href="https://tinyurl.com/46p9ewrv">link</a>.
+A list of small projects collected after different trainings on data science (<a href="https://tinyurl.com/mr36uy7v">link</a>). Overarching collection of information on data analysis (<a href="https://tinyurl.com/46p9ewrv">link</a>).
 </p>
 
 ### DNA methylation associated with mental disorders (2021)

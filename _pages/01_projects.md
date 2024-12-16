@@ -11,7 +11,7 @@ toc: true
 List of current or previous projects. 📚
 </p>
 
-### Open-source software and code (2024-...)
+### Open-source software (2024-...)
 <p style="font-size:15px" align="justify">
 To support open-source, I started to support voluntarily:
 - rOpenSci, by doing translations to Portuguese-BR;

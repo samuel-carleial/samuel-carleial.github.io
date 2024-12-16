@@ -14,7 +14,9 @@ List of current or previous projects. 📚
 ### Open-source software (2024-...)
 <p style="font-size:15px" align="justify">
 To support open-source, I started to support voluntarily:
+
 - rOpenSci, by doing translations to Portuguese-BR;
+
 - libreoffice, by helping with bugfixing;
 </p>
 

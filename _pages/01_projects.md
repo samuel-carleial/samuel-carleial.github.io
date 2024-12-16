@@ -11,10 +11,17 @@ toc: true
 List of current or previous projects. 📚
 </p>
 
+### Open-source software and code (2024-...)
+<p style="font-size:15px" align="justify">
+To support open-source, I started to support voluntarily:
+- rOpenSci, by doing translations to Portuguese-BR;
+- libreoffice, by helping with bugfixing;
+</p>
+
 ### Data science training projects (ongoing)
 <p style="font-size:15px" align="justify">
-A list of small projects collected after different trainings on data science: https://tinyurl.com/mr36uy7v 
-Overarching collection of information on data analysis: https://tinyurl.com/46p9ewrv
+A list of small projects collected after different trainings on data science: [LINK](https://tinyurl.com/mr36uy7v). 
+Overarching collection of information on data analysis: [LINK](https://tinyurl.com/46p9ewrv).
 </p>
 
 ### DNA methylation associated with mental disorders (2021)

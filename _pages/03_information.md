@@ -58,6 +58,11 @@ Knowledge is power. With the internet, we are lucky to have a great amount of in
 <a style="font-size:15px" href="https://datascience.ch/">Swiss Data Science Center (SDSC) |</a>
 <a style="font-size:15px" href="https://www.eawag.ch/en/">Swiss Federal Institute of Aquatic Science and Technology (EWAG) |</a>
 
+## Interesting articles
+<a style="font-size:15px" href="https://nadia.xyz/independent-research">Independent research |</a>
+<a style="font-size:15px" href="https://tinyurl.com/y33892vb">A step-by-step guide to landing your next job in science |</a>
+<a style="font-size:15px" href="https://tinyurl.com/mrx2zetu">‘Can you work with less-qualified people?’ and 19 other curveball questions to navigate at industry interviews |</a>
+
 ## Non-Profits & Co
 <a style="font-size:15px" href="https://www.amnesty.org/en/">amnesty international |</a>
 <a style="font-size:15px" href="https://www.biovision.ch/en">biovision |</a>
@@ -118,6 +123,8 @@ Reprohack
 <a style="font-size:15px" href="https://www.hackerrank.com/">Hackerrank |</a>
 <a style="font-size:15px" href="https://cs.brown.edu/people/rtamassi/gdhandbook/">Handbook of Graph Drawing and Visualization |</a>
 <a style="font-size:15px" href="https://datavizcatalogue.com/index.html">The Data Visualization Catalogue |</a>
+<a style="font-size:15px" href="https://100.datavizproject.com/#">1 dataset 100 visualizations |</a>
+<a style="font-size:15px" href="https://tinyurl.com/yvnzt4jc">Scientific figures that pop: resources for the artistically challenged |</a>
 <a style="font-size:15px" href="https://pll.harvard.edu/catalog">Harvard |</a>
 <a style="font-size:15px" href="https://tinyurl.com/mspya2ds">ex1 ★|</a>
 <a style="font-size:15px" href="https://tinyurl.com/3hkm3hdy">ex2 ★|</a>
@@ -137,3 +144,5 @@ Reprohack
 
 ## Other
 <a style="font-size:15px" href="https://solar.lowtechmagazine.com/2023/12/how-to-build-a-small-solar-power-system/">How to Build a Small Solar Power System |</a>
+<a style="font-size:15px" href="https://johnnydecimal.com/">A system to organise your life |</a>
+

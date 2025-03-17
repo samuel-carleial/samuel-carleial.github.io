@@ -11,7 +11,16 @@ toc: true
 List of current or previous collaborations. 🤝
 </p>
 
-### BESTbelt (2023)
+### Open-source software (2024)
+<p style="font-size:15px" align="justify">
+To support open-source, I started to support voluntarily:
+<ul style="font-size:15px" align="justify">
+  <li>rOpenSci, by doing translations to Portuguese-BR;</li>
+  <li>libreoffice, by helping with bugfixing;</li>
+</ul>
+</p>
+
+### BESTbelt (2023-2025)
 <p style="font-size:15px" align="justify">
 The European Green Belt is the largest ecological network in Europe comprising over 20 countries and more than a thousand ecological important areas, such as NATURA 2000 sites, mountain ranges and significant ecossystems uniting European countries in what before was known as the Iron Curtain dividing West and East after world war. BESTbelt is a project lead by EuroNatur in which I had the oportunity to be part of and be close to several projects ranging from Finland to Greece, Bulgaria and Turkey in the Balkans.
 </p>

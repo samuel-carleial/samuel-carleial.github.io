@@ -11,15 +11,6 @@ toc: true
 List of current or previous projects. 📚
 </p>
 
-### Open-source software (2024-...)
-<p style="font-size:15px" align="justify">
-To support open-source, I started to support voluntarily:
-<ul style="font-size:15px" align="justify">
-  <li>rOpenSci, by doing translations to Portuguese-BR;</li>
-  <li>libreoffice, by helping with bugfixing;</li>
-</ul>
-</p>
-
 ### Data science training projects (ongoing)
 <p style="font-size:15px" align="justify">
 A list of small projects collected after different trainings on data science (<a href="https://tinyurl.com/mr36uy7v">link</a>). Overarching collection of information on data analysis (<a href="https://tinyurl.com/46p9ewrv">link</a>).

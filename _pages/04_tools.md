@@ -11,7 +11,6 @@ toc: true
 Science and research are very dependent on computers to do their job nowadays. Abundant types of software exist out there that can help us doing data analysis, processing information and much else. Here is a short list of programs for a few topics in science. 🛠
 </p>
 
-
 #### DA/DS/CS
 ##### bioinformatics
 <p style="font-size:15px" align="justify">
@@ -103,6 +102,12 @@ Laboratory notebook and inventory manager. It help organize all sorts of informa
 </p>
 
 ##### text editors
+<p style="font-size:15px" align="justify">
+<a href="https://readme.so/de">README helper</a>
+<em>"An extensible, customizable, free/libre text editor — and more."</em> (taken from official  website)
+</p>
+
+
 <p style="font-size:15px" align="justify">
 <a href="https://www.gnu.org/software/emacs/">Emacs</a>
 <em>"An extensible, customizable, free/libre text editor — and more."</em> (taken from official  website)

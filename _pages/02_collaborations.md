@@ -2,7 +2,7 @@
 title: "My collaborations"
 layout: "single"
 permalink: "/02_collaborations/"
-last_modified_at: 2024-03-15
+last_modified_at: 2026-09-26
 toc: true
 ---
 
@@ -11,18 +11,21 @@ toc: true
 List of current or previous collaborations. 🤝
 </p>
 
+### BW schützt! (2026)
+<p style="font-size:15px" align="justify">
+The project focus on mental health and integration of refugees in Germany (Baden-Württemberg) by the implementation of a low-threshold stepped-care approach using peer-counselors as the main agents of change. The project is lead by the University of Konstanz and vivo international. My support goes on the project and data management, data analysis and scientific evaluation of the project. For more, see: <a href="https://www.polver.uni-konstanz.de/hoeffler/research-projects-2/bw-schuetzt">BW schützt!</a>.
+</p>
+
 ### Open-source software (2024)
 <p style="font-size:15px" align="justify">
 To support open-source, I started to support voluntarily:
-<ul style="font-size:15px" align="justify">
-  <li>rOpenSci, by doing translations to Portuguese-BR;</li>
-  <li>libreoffice, by helping with bugfixing;</li>
-</ul>
+(1) rOpenSci, by doing translations to Portuguese-BR;
+(2) libreoffice, by helping with bugfixing;
 </p>
 
 ### BESTbelt (2023-2025)
 <p style="font-size:15px" align="justify">
-The European Green Belt is the largest ecological network in Europe comprising over 20 countries and more than a thousand ecological important areas, such as NATURA 2000 sites, mountain ranges and significant ecossystems uniting European countries in what before was known as the Iron Curtain dividing West and East after world war. BESTbelt is a project lead by EuroNatur in which I had the oportunity to be part of and be close to several projects ranging from Finland to Greece, Bulgaria and Turkey in the Balkans.
+The European Green Belt is the largest ecological network in Europe comprising over 20 countries and more than a thousand ecological important areas, such as NATURA 2000 sites, mountain ranges and significant ecossystems uniting European countries in what before was known as the Iron Curtain dividing West and East after world war. BESTbelt is a project lead by EuroNatur in which I had the oportunity to be part of and be close to several projects ranging from Finland to Greece, Bulgaria and Turkey in the Balkans. For more, see: <a href="https://www.europeangreenbelt.org/bestbelt">BESTbelt at European Green Belt</a>.
 </p>
 
 ### Multiomics analysis (2021)
